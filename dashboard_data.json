@@ -1,1 +1,268 @@
-{"generated_at": "pending", "scan": {}, "watchlist": {}, "recent_alerts": [], "top_deals": []}
+{
+  "generated_at": "2026-03-20T14:36:04",
+  "scan": {
+    "scan_id": "85d07348-9069-4890-aadb-dd095cb3cf2e",
+    "started_at": "2026-03-20T14:23:34",
+    "items_checked": 10
+  },
+  "watchlist": {
+    "total": 416,
+    "hd": 341,
+    "walmart": 75,
+    "not_found": 213
+  },
+  "recent_alerts": [
+    {
+      "name": "G7 330 ft. Laser Distance Measuring Tool, Diagonal Measuring Extension, Angle, 2mm Accuracy, Area, Volume, Pythagoras",
+      "sku": "336879669",
+      "store": "HD",
+      "hd_price": 59.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=MILESEEY+G7&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 224.15,
+      "observed_at": "2026-03-20T10:09:30"
+    },
+    {
+      "name": "2000 Max PSI 1.76 Max GPM Cold Water Electric Powered Pressure Washer w/Anti-Tipping Technology and 2-Quick Connect Tips",
+      "sku": "333986979",
+      "store": "HD",
+      "hd_price": 90.34,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Westinghouse+Max+Max+GPM+Tips&_sacat=0&LH_Sold=1&LH_Complete=1&rt=nc",
+      "profit": 15.71,
+      "observed_at": "2026-03-20T09:28:20"
+    },
+    {
+      "name": "1 Gal. Multipurpose Pressure Washer Outdoor Cleaner",
+      "sku": "325130186",
+      "store": "HD",
+      "hd_price": 19.98,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Seconds+Multipurpose+Pressure+Washer+Cleaner&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 8.79,
+      "observed_at": "2026-03-20T09:13:35"
+    },
+    {
+      "name": "Multi-Purpose Bench Vise, 5-1/2 in. Jaw Width, 5 in. Jaw Opening, 360° Rotating Head 550P",
+      "sku": "314216500",
+      "store": "HD",
+      "hd_price": 237.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Wilton+Multi+Purpose+Bench+550P&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 50.75,
+      "observed_at": "2026-03-20T08:22:51"
+    },
+    {
+      "name": "Tradesman XC Vise, 6-1/2 in. Jaw Width, 6-1/2 in. Jaw Opening, 4 in. Throat Depth 1765XC",
+      "sku": "314216489",
+      "store": "HD",
+      "hd_price": 934.15,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=28842+Wilton&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 102.07,
+      "observed_at": "2026-03-20T08:21:02"
+    },
+    {
+      "name": "4 in. x 10 in. Pivot Jaw Woodworking Vise",
+      "sku": "306223816",
+      "store": "HD",
+      "hd_price": 338.46,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Wilton+Pivot+Jaw+Woodworking+Vise&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 10.82,
+      "observed_at": "2026-03-20T08:18:48"
+    },
+    {
+      "name": "Big Fatso Multipurpose Utility Knife with Quick Blade Change",
+      "sku": "303068525",
+      "store": "HD",
+      "hd_price": 7.98,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=ROBERTS+Big+Fatso+Multipurpose+Change&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 110.27,
+      "observed_at": "2026-03-20T08:12:35"
+    },
+    {
+      "name": "WS5 5 in. Shop Vise 3 in. Throat Depth",
+      "sku": "204264828",
+      "store": "HD",
+      "hd_price": 140.8,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Wilton+WS5+Shop+Vise+Depth&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 204.01,
+      "observed_at": "2026-03-20T08:06:37"
+    },
+    {
+      "name": "Maximum 5 gal. ST-2005 Cedar Naturaltone Semi-Transparent Exterior Stain and Sealer in One Low VOC",
+      "sku": "329332659",
+      "store": "HD",
+      "hd_price": 5.0,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Olympic+Maximum+ST+Cedar+VOC&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 62.94,
+      "observed_at": "2026-03-20T06:41:01"
+    },
+    {
+      "name": "Waterguard 1 gal. Clear Wood Sealer",
+      "sku": "305542042",
+      "store": "HD",
+      "hd_price": 21.98,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Olympic+Waterguard+Clear+Wood+Sealer&_sacat=0&LH_Sold=1&LH_Complete=1&rt=nc",
+      "profit": 11.62,
+      "observed_at": "2026-03-20T06:30:27"
+    },
+    {
+      "name": "Waterguard 1 gal. Clear Multi-Surface Waterproofing Sealer",
+      "sku": "305542040",
+      "store": "HD",
+      "hd_price": 18.98,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Olympic+Waterguard+Clear+Multi-Surface+Sealer&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 14.09,
+      "observed_at": "2026-03-20T06:28:39"
+    },
+    {
+      "name": "6 In. Wi-Fi Smart Ultra-Thin Recessed Integrated LED 12W 1100LM Dimmable, Works w/Alexa/Google, Wet Rated (6 Pack)",
+      "sku": "318420316",
+      "store": "HD",
+      "hd_price": 6.0,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=InfiBrite+Wi+Fi+Smart+Rated&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 13.6,
+      "observed_at": "2026-03-20T06:14:59"
+    },
+    {
+      "name": "Digital Torque Wrench, 3.7-37ft.lb/5-50n.m 3/8 in. Drive Electronic 1.3 in. W x 16.9 in. D Chrome Vanadium Workbench Top",
+      "sku": "336170518",
+      "store": "HD",
+      "hd_price": 69.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=SKYSHALO+Digital+Torque+Wrench+Top&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 8.49,
+      "observed_at": "2026-03-20T05:59:42"
+    },
+    {
+      "name": "25 ft. Elite Series Magnetic Tape Measure, 1 1/4 in. Double-Sided Blade, 12 ft. of Stand Out",
+      "sku": "321367584",
+      "store": "HD",
+      "hd_price": 34.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=SPEC+OPS+Elite+Magnetic+Out&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 48.53,
+      "observed_at": "2026-03-20T05:47:03"
+    },
+    {
+      "name": "25 ft. Elite Series Tape Measure, 1 1/4 in. Double-Sided Blade, 12 ft. of Stand Out, Military-Grade Composite Case",
+      "sku": "321366746",
+      "store": "HD",
+      "hd_price": 29.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=SPEC+OPS+Elite+Tape+Case&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 29.68,
+      "observed_at": "2026-03-20T05:44:50"
+    },
+    {
+      "name": "50-Piece 3/8 in. Drive Impact Socket Set, SAE (5/16 in. to 3/4 in. ) and Metric (8-22 mm), Cr-V Steel, with Extensions",
+      "sku": "339825752",
+      "store": "HD",
+      "hd_price": 46.9,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=VEVOR+Drive+Impact+Socket+Extensions&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 11.97,
+      "observed_at": "2026-03-20T05:38:34"
+    },
+    {
+      "name": "11pc 1/4\" Drive Low-Profile TORX Bit Socket Set",
+      "sku": "339451969",
+      "store": "HD",
+      "hd_price": 74.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+11pc+Drive+Low+Socket&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 8.0,
+      "observed_at": "2026-03-20T05:29:08"
+    },
+    {
+      "name": "Galvanized Fabric Stakes Landscape Staples 500-Count Garden Staples, Heavy-Duty and Anti Rust Galvanized",
+      "sku": "331032683",
+      "store": "HD",
+      "hd_price": 43.49,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Ashman+Online+Galvanized+Fabric+Galvanized&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 25.8,
+      "observed_at": "2026-03-20T05:23:21"
+    },
+    {
+      "name": "Chain Sling,5/16 in.x5 ft. Lifting Chains with Hooks,G80Engine Chain Hoist Lifts,6600 lbs. Capacity Lifting Sling Chains",
+      "sku": "332333358",
+      "store": "HD",
+      "hd_price": 33.16,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=VEVOR+Chain+Sling+x5+Chains&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 1.68,
+      "observed_at": "2026-03-20T04:45:07"
+    },
+    {
+      "name": "Proof Coil Chain, 1/8 in. x 33 ft., 350 lbs. Safe Working Load, Zinc Plated Proof Tested Coil Chain with Two Quick Links",
+      "sku": "332306223",
+      "store": "HD",
+      "hd_price": 20.0,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=VEVOR+Proof+Coil+Chain+Links&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 44.86,
+      "observed_at": "2026-03-20T04:42:23"
+    }
+  ],
+  "top_deals": [
+    {
+      "name": "14 Amp 1-1/8 in. Hex Corded Variable Speed 35 lb. Demolition Hammer w/ Soft Start, LED, (1) Bull Point and Hard Case",
+      "sku": "202659728",
+      "store": "HD",
+      "hd_price": 1.0,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Makita+HM1307CB&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 361.7,
+      "observed_at": "2026-03-08T21:34:17"
+    },
+    {
+      "name": "40V max XGT Brushless Cordless 21 in. Walk Behind Self-Propelled Commercial Lawn Mower Kit (8.0Ah)",
+      "sku": "324495367",
+      "store": "HD",
+      "hd_price": 1.0,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Makita+40V+max+XGT+Mower&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 236.47,
+      "observed_at": "2026-03-08T21:42:29"
+    },
+    {
+      "name": "FLEXVOLT 60V MAX 1000 PSI 1.0 GPM Cold Water Cordless Battery Power Cleaner Kit w/(1) FLEXVOLT 3 Ah Battery and Charger",
+      "sku": "329195512",
+      "store": "HD",
+      "hd_price": 90.34,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+DCPW1000X1&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 231.53,
+      "observed_at": "2026-03-20T03:03:54"
+    },
+    {
+      "name": "G7 330 ft. Laser Distance Measuring Tool, Diagonal Measuring Extension, Angle, 2mm Accuracy, Area, Volume, Pythagoras",
+      "sku": "336879669",
+      "store": "HD",
+      "hd_price": 59.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=MILESEEY+G7&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 224.15,
+      "observed_at": "2026-03-08T21:14:41"
+    },
+    {
+      "name": "G7 330 ft. Laser Distance Measuring Tool, Diagonal Measuring Extension, Angle, 2mm Accuracy, Area, Volume, Pythagoras",
+      "sku": "336879669",
+      "store": "HD",
+      "hd_price": 59.99,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=MILESEEY+G7&_sacat=0&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3&rt=nc",
+      "profit": 224.15,
+      "observed_at": "2026-03-20T10:09:30"
+    }
+  ]
+}
