@@ -1,0 +1,6 @@
+# Exclude everything from this repo — only dashboard_data.json is published.
+*
+
+# Whitelist
+!.gitignore
+!dashboard_data.json
