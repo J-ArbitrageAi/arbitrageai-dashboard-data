@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-28T15:00:08",
+  "generated_at": "2026-03-28T20:08:56",
   "scan": {
-    "scan_id": "57851ce3-9497-4637-a07b-d98ba28e5578",
-    "started_at": "2026-03-28T14:19:11",
-    "items_checked": 30
+    "scan_id": "190baf62-c1ed-419a-ac65-af8c40cb290f",
+    "started_at": "2026-03-28T20:00:04",
+    "items_checked": 0
   },
   "watchlist": {
-    "total": 427,
-    "hd": 352,
+    "total": 431,
+    "hd": 356,
     "walmart": 75,
     "not_found_count": 76,
-    "ok_count": 9
+    "ok_count": 10
   },
   "watchlist_items": [
     {
@@ -173,7 +173,7 @@
       "sku": "310106668",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": "Milwaukee",
+      "category": "Hand Tools",
       "last_checked_at": "2026-03-27T01:21:15",
       "ebay_avg": 0,
       "roi_pct": null
@@ -195,7 +195,7 @@
       "sku": "317297151",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": "Power Tools",
+      "category": "Milwaukee",
       "last_checked_at": "2026-03-27T01:24:31",
       "ebay_avg": 20.28,
       "roi_pct": -96.9
@@ -206,7 +206,7 @@
       "sku": "335660958",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": "Milwaukee",
+      "category": "Hand Tools",
       "last_checked_at": "2026-03-27T01:28:03",
       "ebay_avg": 17.49,
       "roi_pct": -89.0
@@ -316,7 +316,7 @@
       "sku": "326401330",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": null,
+      "category": "Outdoor Power Equipment",
       "last_checked_at": "2026-03-27T01:06:35",
       "ebay_avg": 207.23,
       "roi_pct": -75.8
@@ -448,7 +448,7 @@
       "sku": "331891369",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": "Milwaukee",
+      "category": "Outdoor Power Equipment",
       "last_checked_at": "2026-03-27T01:11:42",
       "ebay_avg": 287.38,
       "roi_pct": -68.0
@@ -459,7 +459,7 @@
       "sku": "336109860",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": "Milwaukee",
+      "category": "Outdoor Power Equipment",
       "last_checked_at": "2026-03-27T01:14:35",
       "ebay_avg": 0,
       "roi_pct": null
@@ -470,7 +470,7 @@
       "sku": "314186063",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": "Milwaukee",
+      "category": "Outdoor Power Equipment",
       "last_checked_at": "2026-03-27T01:02:10",
       "ebay_avg": 259.63,
       "roi_pct": -85.7
@@ -492,7 +492,7 @@
       "sku": "327655977",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": null,
+      "category": "Outdoor Power Equipment",
       "last_checked_at": "2026-03-27T01:07:22",
       "ebay_avg": 798.77,
       "roi_pct": -69.3
@@ -1104,7 +1104,7 @@
     },
     {
       "item_id": 216,
-      "name": "11,000-Watt Electric Start Gasoline and Propane Inverter Generator with CO Sensor, Dual Fuel",
+      "name": "12,000-Watt Remote Electric Start Dual Fuel Gas and Propane Powered Inverter Generator with CO Sensor",
       "sku": "328903592",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
@@ -1665,7 +1665,7 @@
     },
     {
       "item_id": 357,
-      "name": "7pc 3/8\" Drive Long Ball End Hex Bit Socket Set-Metric",
+      "name": "3/8 in. Metric Drive Long Ball End Hex Bit Socket Set (7-Piece)",
       "sku": "339451978",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
@@ -1676,7 +1676,7 @@
     },
     {
       "item_id": 359,
-      "name": "8pc 3/8\" Drive Long Ball End Hex Bit Socket Set-SAE",
+      "name": "3/8 in. Drive SAE Long Ball End Hex Bit Socket Set (8-Piece)",
       "sku": "339451979",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
@@ -1687,7 +1687,7 @@
     },
     {
       "item_id": 360,
-      "name": "11pc 1/4\" Drive Low-Profile TORX Bit Socket Set",
+      "name": "1/4 in. Drive Low-Profile TORX Bit Socket Set (11-Piece)",
       "sku": "339451969",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
@@ -1698,11 +1698,11 @@
     },
     {
       "item_id": 361,
-      "name": "13pc 1/4\" and 3/8\" Drive Tamper Proof TORX Bit Socket Set",
+      "name": "1/4 in. and 3/8 in. Drive Tamper Proof TORX Bit Socket Set (13-Piece)",
       "sku": "339451971",
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
-      "category": null,
+      "category": "Hand Tools",
       "last_checked_at": "2026-03-26T23:21:01",
       "ebay_avg": 92.97,
       "roi_pct": -11.4
@@ -3793,7 +3793,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Outdoor Power Equipment",
-      "last_checked_at": "2026-03-28T14:33:35",
+      "last_checked_at": "2026-03-28T15:57:42",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3804,7 +3804,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Outdoor Power Equipment",
-      "last_checked_at": "2026-03-28T14:32:36",
+      "last_checked_at": "2026-03-28T15:57:02",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3815,7 +3815,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Outdoor Power Equipment",
-      "last_checked_at": "2026-03-28T14:33:04",
+      "last_checked_at": "2026-03-28T15:57:20",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3826,7 +3826,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Outdoor Power Equipment",
-      "last_checked_at": "2026-03-28T14:32:08",
+      "last_checked_at": "2026-03-28T15:56:42",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3837,7 +3837,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Outdoor Power Equipment",
-      "last_checked_at": "2026-03-28T14:31:33",
+      "last_checked_at": "2026-03-28T15:56:15",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3848,7 +3848,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Power Tool Accessories",
-      "last_checked_at": "2026-03-28T14:30:09",
+      "last_checked_at": "2026-03-28T15:54:24",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3859,7 +3859,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Power Tool Accessories",
-      "last_checked_at": "2026-03-28T14:31:07",
+      "last_checked_at": "2026-03-28T15:54:48",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3870,7 +3870,7 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Power Tool Accessories",
-      "last_checked_at": "2026-03-28T14:29:34",
+      "last_checked_at": "2026-03-28T15:53:59",
       "ebay_avg": 0,
       "roi_pct": null
     },
@@ -3881,7 +3881,51 @@
       "last_seen_price": "Not found",
       "last_seen_status": "TIMEOUT",
       "category": "Power Tool Accessories",
-      "last_checked_at": "2026-03-28T14:28:46",
+      "last_checked_at": "2026-03-28T15:53:30",
+      "ebay_avg": 0,
+      "roi_pct": null
+    },
+    {
+      "item_id": 1495,
+      "name": "6 in. Cross Slide Drill Press Vise",
+      "sku": "301955073",
+      "last_seen_price": "Not found",
+      "last_seen_status": "TIMEOUT",
+      "category": "Hand Tools",
+      "last_checked_at": "2026-03-28T15:53:06",
+      "ebay_avg": 0,
+      "roi_pct": null
+    },
+    {
+      "item_id": 1505,
+      "name": "1/2 in. Drive 6-Point SAE Hi-Viz Standard and Deep Impact Socket Set (39-Piece)",
+      "sku": "335661433",
+      "last_seen_price": "$284.99",
+      "last_seen_status": "OK",
+      "category": "Hand Tools",
+      "last_checked_at": "2026-03-28T15:50:41",
+      "ebay_avg": 22.38,
+      "roi_pct": -92.1
+    },
+    {
+      "item_id": 1511,
+      "name": "StudSensor HD25 Stud Finder",
+      "sku": "204607261",
+      "last_seen_price": "Not found",
+      "last_seen_status": "TIMEOUT",
+      "category": "Hand Tools",
+      "last_checked_at": "2026-03-28T15:48:36",
+      "ebay_avg": 0,
+      "roi_pct": null
+    },
+    {
+      "item_id": 1512,
+      "name": "1/4 in. Drive 40-200 ft./lbs. Click Torque Wrench",
+      "sku": "339948965",
+      "last_seen_price": "Not found",
+      "last_seen_status": "TIMEOUT",
+      "category": "Hand Tools",
+      "last_checked_at": "2026-03-28T15:49:21",
       "ebay_avg": 0,
       "roi_pct": null
     }
