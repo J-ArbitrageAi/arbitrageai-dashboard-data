@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T20:45:13",
+  "generated_at": "2026-04-05T00:29:44",
   "scan": {
-    "scan_id": "78dc736e-e13c-4c6d-a381-5a220091762c",
-    "started_at": "2026-04-04T20:00:02",
-    "items_checked": 691
+    "scan_id": "manual",
+    "started_at": "2026-04-05T00:29:43",
+    "items_checked": 0
   },
   "watchlist": {
     "total": 782,
@@ -9712,8 +9712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:43:51",
-      "ebay_avg": 221.32,
-      "roi_pct": 70.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1829,
@@ -9792,8 +9792,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:43:54",
-      "ebay_avg": 125.44,
-      "roi_pct": -13.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1835,
@@ -10292,8 +10292,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:20:27",
-      "ebay_avg": 626.18,
-      "roi_pct": -37.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1860,
@@ -10772,8 +10772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:20:36",
-      "ebay_avg": 6.72,
-      "roi_pct": -93.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1887,
@@ -11012,8 +11012,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:12",
-      "ebay_avg": 91.44,
-      "roi_pct": 10.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1902,
@@ -11032,8 +11032,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:20:40",
-      "ebay_avg": 79.43,
-      "roi_pct": -26.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1903,
@@ -11172,8 +11172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:12",
-      "ebay_avg": 161.54,
-      "roi_pct": -61.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1910,
@@ -11232,8 +11232,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:12",
-      "ebay_avg": 206.1,
-      "roi_pct": -40.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1913,
@@ -11332,8 +11332,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:12",
-      "ebay_avg": 515.57,
-      "roi_pct": 47.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1918,
@@ -11412,8 +11412,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:21:04",
-      "ebay_avg": 408.38,
-      "roi_pct": -7.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1926,
@@ -11432,8 +11432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:21:04",
-      "ebay_avg": 147.31,
-      "roi_pct": 84.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1930,
@@ -11452,8 +11452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:21:07",
-      "ebay_avg": 164.07,
-      "roi_pct": 36.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1931,
@@ -11552,8 +11552,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:21:59",
-      "ebay_avg": 74.14,
-      "roi_pct": -42.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1941,
@@ -11572,8 +11572,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:16",
-      "ebay_avg": 542.25,
-      "roi_pct": -35.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1942,
@@ -11592,8 +11592,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:16",
-      "ebay_avg": 946.25,
-      "roi_pct": 375.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1943,
@@ -11612,8 +11612,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:19",
-      "ebay_avg": 222.42,
-      "roi_pct": 49.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1944,
@@ -11632,8 +11632,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:21:59",
-      "ebay_avg": 152.36,
-      "roi_pct": 56.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1945,
@@ -11812,8 +11812,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:23",
-      "ebay_avg": 679.28,
-      "roi_pct": 28.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1956,
@@ -11832,8 +11832,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:27",
-      "ebay_avg": 159.6,
-      "roi_pct": 44.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1957,
@@ -11852,8 +11852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:30",
-      "ebay_avg": 449.21,
-      "roi_pct": -6.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1958,
@@ -11872,8 +11872,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:30",
-      "ebay_avg": 284.06,
-      "roi_pct": 149.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1959,
@@ -11912,8 +11912,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:33",
-      "ebay_avg": 147.74,
-      "roi_pct": 4.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1961,
@@ -13072,8 +13072,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:33",
-      "ebay_avg": 6.72,
-      "roi_pct": -93.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2380,
@@ -13112,8 +13112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:33",
-      "ebay_avg": 93.8,
-      "roi_pct": 15.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2391,
@@ -13212,8 +13212,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:23:39",
-      "ebay_avg": 169.07,
-      "roi_pct": 92.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2431,
@@ -13312,8 +13312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:37",
-      "ebay_avg": 84.3,
-      "roi_pct": -18.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2444,
@@ -13332,8 +13332,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:37",
-      "ebay_avg": 261.71,
-      "roi_pct": 181.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2576,
@@ -13532,8 +13532,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:43",
-      "ebay_avg": 51.28,
-      "roi_pct": -79.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2734,
@@ -13652,8 +13652,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:24:03",
-      "ebay_avg": 278.12,
-      "roi_pct": 16.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2788,
@@ -13712,8 +13712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:24:25",
-      "ebay_avg": 375.63,
-      "roi_pct": 134.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2794,
@@ -13732,8 +13732,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:24:29",
-      "ebay_avg": 362.36,
-      "roi_pct": 331.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2795,
@@ -13752,8 +13752,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:24:34",
-      "ebay_avg": 716.25,
-      "roi_pct": 94.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2796,
@@ -13772,8 +13772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:24:37",
-      "ebay_avg": 239.19,
-      "roi_pct": -21.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2797,
@@ -13932,8 +13932,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:43",
-      "ebay_avg": 245.45,
-      "roi_pct": -8.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2812,
@@ -13952,8 +13952,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:24:41",
-      "ebay_avg": 257.38,
-      "roi_pct": 28.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2813,
@@ -13972,8 +13972,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:24:48",
-      "ebay_avg": 548.15,
-      "roi_pct": -19.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2815,
@@ -14092,8 +14092,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:25:32",
-      "ebay_avg": 163.17,
-      "roi_pct": 58.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2891,
@@ -14132,8 +14132,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:43",
-      "ebay_avg": 117.28,
-      "roi_pct": 13.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2898,
@@ -14152,8 +14152,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:43",
-      "ebay_avg": 198.33,
-      "roi_pct": -28.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2905,
@@ -14172,8 +14172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:43",
-      "ebay_avg": 679.28,
-      "roi_pct": 143.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2906,
@@ -14232,8 +14232,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:46",
-      "ebay_avg": 679.28,
-      "roi_pct": 51.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2909,
@@ -14292,8 +14292,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:50",
-      "ebay_avg": 305.74,
-      "roi_pct": 225.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2915,
@@ -14312,8 +14312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:53",
-      "ebay_avg": 321.99,
-      "roi_pct": 231.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2917,
@@ -14332,8 +14332,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:25:35",
-      "ebay_avg": 152.19,
-      "roi_pct": 30.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2918,
@@ -14392,8 +14392,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:56",
-      "ebay_avg": 305.74,
-      "roi_pct": 277.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2923,
@@ -14432,8 +14432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:25:35",
-      "ebay_avg": 152.19,
-      "roi_pct": 12.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2925,
@@ -14492,8 +14492,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:44:59",
-      "ebay_avg": 287.34,
-      "roi_pct": 141.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2930,
@@ -14532,8 +14532,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:25:56",
-      "ebay_avg": 163.17,
-      "roi_pct": 85.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2933,
@@ -14592,8 +14592,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:45:02",
-      "ebay_avg": 306.79,
-      "roi_pct": 216.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2944,
@@ -15312,8 +15312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:35:40",
-      "ebay_avg": 334.36,
-      "roi_pct": 298.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3881,
@@ -15472,8 +15472,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:39:09",
-      "ebay_avg": 164.07,
-      "roi_pct": -48.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3951,
@@ -15512,8 +15512,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:40:07",
-      "ebay_avg": 164.07,
-      "roi_pct": -51.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3954,
@@ -15572,8 +15572,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:41:21",
-      "ebay_avg": 164.07,
-      "roi_pct": 18.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3970,
@@ -15612,8 +15612,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-04T20:42:06",
-      "ebay_avg": 169.07,
-      "roi_pct": 12.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3979,
@@ -15657,24 +15657,6 @@
     }
   ],
   "recent_alerts": [
-    {
-      "name": "Restored Apple MacBook Pro MF839LL/A 13.3-Inch 128GB Laptop w/8GB RAM & Intel Core i5 Dual-Core 2.7 GHz Processor",
-      "sku": "45497968",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Apple-MacBook-Pro-with-Retina-display-13-3-Core-i5-8-GB-RAM-128-GB-flash-storage-English/45497968?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 199.0,
-      "discount_pct": null,
-      "ebay_avg": 946.25,
-      "comp_count": 14,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+MacBook+Processor&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 625.16,
-      "observed_at": "2026-04-04T20:44:16"
-    },
     {
       "name": "(Open Box) LG 55\" Class 4K (2160p) Smart LED TV (55UA7700AUA)",
       "sku": "18719152395",
@@ -15820,24 +15802,6 @@
       "observed_at": "2026-04-04T20:44:43"
     },
     {
-      "name": "Restored Apple MacBook Air 13.3 2018 128GB MRE82LL/A - Space Gray (Refurbished)",
-      "sku": "388397709",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-MacBook-Air-13-3-2018-128GB-MRE82LL-A-Space-Gray-Refurbished/388397709?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 279.0,
-      "discount_pct": null,
-      "ebay_avg": 679.28,
-      "comp_count": 13,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+MacBook+Gray&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 330.23,
-      "observed_at": "2026-04-04T20:44:43"
-    },
-    {
       "name": "24.4 in. W 11.15 cu. ft. Commercial Refrigerator in Black with 4-Casters and Custom Light Box Sign",
       "sku": "335944203",
       "retailer": "homedepot",
@@ -15854,42 +15818,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Gilati+cu+Commercial+Refrigerator+Sign&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&LH_ItemCondition=3&rt=nc",
       "profit": 301.06,
       "observed_at": "2026-04-04T20:09:38"
-    },
-    {
-      "name": "Restored Samsung Galaxy S25 FE SM-S731U Unlocked 128GB Jetblack (Refurbished)",
-      "sku": "18911902557",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Samsung-Galaxy-S25-FE-SM-S731U-Unlocked-128GB-Jetblack-Refurbished/18911902557?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 369.0,
-      "discount_pct": null,
-      "ebay_avg": 716.25,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Restored+Galaxy+Jetblack&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 285.16,
-      "observed_at": "2026-04-04T20:24:34"
-    },
-    {
-      "name": "Restored Samsung Galaxy A50 A505U 64GB Black Fully Unlocked (LCD Shadow) (Refurbished)",
-      "sku": "981308031",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Samsung-Galaxy-A50-A505U-64GB-Black-Fully-Unlocked-LCD-Shadow-Refurbished/981308031?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 84.0,
-      "discount_pct": null,
-      "ebay_avg": 362.36,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Restored+Galaxy+Unlocked&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 226.61,
-      "observed_at": "2026-04-04T20:24:29"
     },
     {
       "name": "Walmart Family Mobile Samsung Galaxy A16, 128GB, 5G, Black - Prepaid Smartphone [Locked to Walmart Famliy Mobile]",
@@ -15946,24 +15874,6 @@
       "observed_at": "2026-04-04T20:13:38"
     },
     {
-      "name": "Restored Samsung Galaxy A50 A505U (Fully Unlocked) 64GB Black (Refurbished)",
-      "sku": "870430914",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Samsung-Galaxy-A50-A505U-64GB-GSM-Unlocked-Black-Refurbished/870430914?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 84.0,
-      "discount_pct": null,
-      "ebay_avg": 334.36,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Restored+Galaxy+Black&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 202.81,
-      "observed_at": "2026-04-04T20:35:40"
-    },
-    {
       "name": "AT&T Samsung Galaxy S25 Plus, Silver Shadow, 512GB",
       "sku": "14976022430",
       "retailer": "walmart",
@@ -16018,24 +15928,6 @@
       "observed_at": "2026-04-04T20:18:53"
     },
     {
-      "name": "Restored Apple Macbook Pro A1990 15\" - Intel Core I7-8850H - 16GB RAM 256GB Storage - Grey - 2019 (Refurbished)",
-      "sku": "5184688162",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Macbook-Pro-A1990-15-Intel-Core-I7-8850H-16GB-RAM-256GB-Storage-Grey-2019/5184688162?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 448.0,
-      "discount_pct": null,
-      "ebay_avg": 679.28,
-      "comp_count": 13,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Macbook+Grey&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 186.58,
-      "observed_at": "2026-04-04T20:44:46"
-    },
-    {
       "name": "AT&T Samsung Galaxy A16 5G, 64GB, Blue Black - Prepaid Smartphone",
       "sku": "13679564809",
       "retailer": "walmart",
@@ -16072,42 +15964,6 @@
       "observed_at": "2026-04-04T20:10:58"
     },
     {
-      "name": "Restored Apple iPad 10.2\" - 2019 7th Generation 32GB Space Gray Wi-Fi Up to 10 Hours of Battery Life",
-      "sku": "395764390",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-iPad-7-7th-Gen-32GB-Wi-Fi-10-2-Space-Gray-2019-Refurbished/395764390?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 97.01,
-      "discount_pct": null,
-      "ebay_avg": 321.99,
-      "comp_count": 7,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+iPad+Life&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 181.24,
-      "observed_at": "2026-04-04T20:44:53"
-    },
-    {
-      "name": "Restored Apple iPad (6th Generation) 32GB WiFi Space Gray (Refurbished)",
-      "sku": "448100887",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-iPad-6th-Generation-32GB-WiFi-Space-Gray-Refurbished/448100887?conditionGroupCode=2&classType=VARIANT",
-      "hd_price": 80.97,
-      "discount_pct": null,
-      "ebay_avg": 305.74,
-      "comp_count": 13,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+iPad+Gray&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 181.05,
-      "observed_at": "2026-04-04T20:44:56"
-    },
-    {
       "name": "Straight Talk Samsung Galaxy A16, 128GB, 5G, Black - Prepaid Smartphone [Locked to Straight Talk]",
       "sku": "12024768241",
       "retailer": "walmart",
@@ -16124,60 +15980,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Straight+Talk+Talk]&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 178.39,
       "observed_at": "2026-04-04T20:19:41"
-    },
-    {
-      "name": "Restored Samsung Galaxy A54 5G A546E 128GB Dual SIM GSM Unlocked Android Smartphone (Latin VariantUS Compatible LTE) - Awesome Black (Refurbished)",
-      "sku": "5052474041",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Pre-Owned-Samsung-Galaxy-A54-5G-A546E-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-Variant-US-Compatible-LTE-Awesome-Black-Like-New/5052474041?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 159.99,
-      "discount_pct": null,
-      "ebay_avg": 375.63,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Restored+Galaxy+Black&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 173.29,
-      "observed_at": "2026-04-04T20:24:25"
-    },
-    {
-      "name": "Restored Apple iPad 6th Gen 32GB Wi-Fi Space Gray (Refurbished)",
-      "sku": "876555631",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-iPad-6th-Gen-32GB-Wi-Fi-Space-Gray-Refurbished/876555631?conditionGroupCode=2&classType=VARIANT",
-      "hd_price": 93.99,
-      "discount_pct": null,
-      "ebay_avg": 305.74,
-      "comp_count": 13,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+iPad+Gray&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 169.99,
-      "observed_at": "2026-04-04T20:44:50"
-    },
-    {
-      "name": "Restored Apple iPad 7th Gen 32GB Space Gray Wi-Fi 3F835LL/A (Refurbished)",
-      "sku": "436386343",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-iPad-7th-Gen-32GB-Space-Gray-Wi-Fi-3F835LL-A-Refurbished/436386343?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 97.0,
-      "discount_pct": null,
-      "ebay_avg": 306.79,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Apple+iPad+3F835LL&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&LH_ItemCondition=3&rt=nc",
-      "profit": 168.33,
-      "observed_at": "2026-04-04T20:45:02"
     },
     {
       "name": "Pre-Owned AT&T Samsung Galaxy A15 5G, 128GB, 4GB RAM, Black - Prepaid Smartphone",
@@ -16216,78 +16018,6 @@
       "observed_at": "2026-04-04T20:44:33"
     },
     {
-      "name": "Restored 2020 Apple ipad Wi Fi 32 GB Space Gray (8th Generation) (Refurbished)",
-      "sku": "7016962576",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-2020-Apple-iPad-Wi-Fi-32-GB-Space-Gray-8th-Generation-Refurbished/7016962576?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 114.0,
-      "discount_pct": null,
-      "ebay_avg": 284.06,
-      "comp_count": 11,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+ipad+Gray&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 134.55,
-      "observed_at": "2026-04-04T20:44:30"
-    },
-    {
-      "name": "Restored Apple iPad 5th Gen 32GB Wi-Fi, 9.7in - Silver (Refurbished)",
-      "sku": "625957333",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-iPad-5th-Gen-32GB-Wi-Fi-9-7in-Silver-Refurbished/625957333?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 92.98,
-      "discount_pct": null,
-      "ebay_avg": 261.71,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+iPad+Silver&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 133.42,
-      "observed_at": "2026-04-04T20:44:37"
-    },
-    {
-      "name": "Restored Premium Apple iPad 7th Gen (2019) WiFi Only Space Gray 32GB (Refurbished)",
-      "sku": "5153851845",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Premium-Apple-iPad-7th-Gen-2019-WiFi-Only-Space-Gray-32GB-Refurbished/5153851845?conditionGroupCode=2&classType=VARIANT",
-      "hd_price": 119.0,
-      "discount_pct": null,
-      "ebay_avg": 287.34,
-      "comp_count": 7,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Premium+32GB&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 133.09,
-      "observed_at": "2026-04-04T20:44:59"
-    },
-    {
-      "name": "Restored Apple 15.4-inch MacBook Pro Notebook Computer MPTT2LL/A, 2.9 GHz Intel Core i7, 16GB RAM, macOS High Sierra, 512GB SSD Space Gray",
-      "sku": "619372645",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-15-4-inch-MacBook-Pro-Notebook-Computer-MPTT2LL-A-2-9-GHz-Intel-Core-i7-16GB-RAM-macOS-High-Sierra-512GB-SSD-Space-Gray-Refurbished/619372645?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 349.0,
-      "discount_pct": null,
-      "ebay_avg": 515.57,
-      "comp_count": 7,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+inch+Gray&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 131.59,
-      "observed_at": "2026-04-04T20:44:12"
-    },
-    {
       "name": "Walmart Family Mobile Samsung Galaxy A26, 5G, 128GB, Black, Prepaid Smartphone [Locked to Walmart Family Mobile]",
       "sku": "17068114667",
       "retailer": "walmart",
@@ -16322,24 +16052,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+Tools+KITS&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 121.9,
       "observed_at": "2026-04-04T20:11:23"
-    },
-    {
-      "name": "Restored Apple MacBook Pro 13.3\" M1 Chip - 8GB RAM - 512GB SSD Space Gray (Refurbished)",
-      "sku": "489717359",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-MacBook-Pro-13-3-M1-Chip-8GB-RAM-512GB-SSD-Space-Gray-Refurbished/489717359?conditionGroupCode=2&classType=VARIANT",
-      "hd_price": 529.0,
-      "discount_pct": null,
-      "ebay_avg": 679.28,
-      "comp_count": 13,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+MacBook+Gray&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 117.73,
-      "observed_at": "2026-04-04T20:44:23"
     },
     {
       "name": "Straight Talk Samsung Galaxy A26, 5G, 128GB, Black - Prepaid Smartphone [Locked to Straight Talk]",
@@ -16432,24 +16144,6 @@
       "observed_at": "2026-04-04T20:20:15"
     },
     {
-      "name": "Restored Samsung Galaxy S21 FE 5G Smartphone, Fully Unlocked,128 GB Storage + 6 GB RAM, Graphite (Refurbished)",
-      "sku": "1734246981",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Samsung-Galaxy-S21-FE-5G-Smartphone-Fully-Unlocked-128-GB-Storage-6-GB-RAM-Graphite/1734246981?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 130.0,
-      "discount_pct": null,
-      "ebay_avg": 221.32,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Restored+Galaxy+Graphite&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 67.63,
-      "observed_at": "2026-04-04T20:43:51"
-    },
-    {
       "name": "M12 12V Lithium-Ion Cordless Combo Kit (4-Tool) with Two 2.0Ah Batteries, Charger & Tool Bag",
       "sku": "332084254",
       "retailer": "homedepot",
@@ -16540,24 +16234,6 @@
       "observed_at": "2026-04-04T20:19:45"
     },
     {
-      "name": "Restored Apple Watch Series 5 (GPS, 40mm) - Space Gray Aluminum Case with Black Sport Band (Refurbished)",
-      "sku": "154871269",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Watch-Series-5-GPS-40mm-Space-Gray-Aluminum-Case-with-Black-Sport-Band-Refurbished/154871269?conditionGroupCode=2&classType=REGULAR&athbdg=L1103",
-      "hd_price": 87.95,
-      "discount_pct": null,
-      "ebay_avg": 169.07,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Watch+Band&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 58.95,
-      "observed_at": "2026-04-04T20:23:39"
-    },
-    {
       "name": "Sony 65 Class BRAVIA 3 LED 4K HDR Smart Google TV K-65S30, 2024 Model",
       "sku": "5558569816",
       "retailer": "walmart",
@@ -16610,42 +16286,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+M18+Gauge+Head&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 56.19,
       "observed_at": "2026-04-04T20:13:34"
-    },
-    {
-      "name": "Restored Apple Watch Series 5 (GPS + Cellular) 44mm Smartwatch (Refurbished)",
-      "sku": "993908941",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Watch-Series-5-GPS-Cellular-44mm-Smartwatch-Refurbished/993908941?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 87.97,
-      "discount_pct": null,
-      "ebay_avg": 163.17,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Watch+Smartwatch&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 53.92,
-      "observed_at": "2026-04-04T20:25:56"
-    },
-    {
-      "name": "Restored 2020 Apple iPad Wi Fi+Cellular 32 GB Space Gray (8th Generation) (Refurbished)",
-      "sku": "645052075",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-2020-Apple-iPad-Wi-Fi-Cellular-32-GB-Space-Gray-8th-Generation-Refurbished/645052075?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 148.9,
-      "discount_pct": null,
-      "ebay_avg": 222.42,
-      "comp_count": 11,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+iPad+Gray&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 52.49,
-      "observed_at": "2026-04-04T20:44:19"
     },
     {
       "name": "Milwaukee 2625-20 M18 18V Cordless Reciprocating Saw (Bare Tool)",
@@ -16720,42 +16360,6 @@
       "observed_at": "2026-04-04T20:24:37"
     },
     {
-      "name": "Restored Apple Watch SE 44mm GPS + Cellular, Space Gray Aluminum Case - Black Sport Band Good",
-      "sku": "13717022628",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Watch-SE-44mm-GPS-Cellular-Space-Gray-Aluminum-Case-Black-Sport-Band-Good-Refurbished/13717022628?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 80.0,
-      "discount_pct": null,
-      "ebay_avg": 147.31,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Watch+Good&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 47.22,
-      "observed_at": "2026-04-04T20:21:04"
-    },
-    {
-      "name": "Restored Apple Watch Series 5 40mm GPS Aluminum Gold Case Pink Sport Band Smartwatch (Refurbished)",
-      "sku": "275002652",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Watch-Series-5-40mm-GPS-Aluminum-Gold-Case-Pink-Sport-Band-Smartwatch-Refurbished/275002652?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 102.8,
-      "discount_pct": null,
-      "ebay_avg": 163.17,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Watch+Smartwatch&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 41.31,
-      "observed_at": "2026-04-04T20:25:32"
-    },
-    {
       "name": "LG 50\" 4K UHD UA75 AI Smart TV, 50UA7500",
       "sku": "14364014573",
       "retailer": "walmart",
@@ -16828,24 +16432,6 @@
       "observed_at": "2026-04-04T20:20:33"
     },
     {
-      "name": "Restored Samsung Galaxy S23 FE S711U (Fully Unlocked) 128GB Graphite (Refurbished)",
-      "sku": "16706868971",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Samsung-Galaxy-S23-FE-SM-S711U-Unlocked-128GB-Graphite-Refurbished/16706868971?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 199.99,
-      "discount_pct": null,
-      "ebay_avg": 257.38,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Restored+Galaxy+Graphite&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 38.78,
-      "observed_at": "2026-04-04T20:24:41"
-    },
-    {
       "name": "Dewalt Power Tools Dt70708 Drill Drive Set, 25 Piece",
       "sku": "17490954988",
       "retailer": "walmart",
@@ -16862,24 +16448,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+Power+Tools+Drive&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 38.74,
       "observed_at": "2026-04-04T20:44:40"
-    },
-    {
-      "name": "Restored Apple Watch Series SE 40MM Rose Gold Aluminum Case GPS + Cellular Pink Sand Sport Band (Refurbished)",
-      "sku": "1425655028",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Watch-Series-SE-40MM-Rose-Gold-Aluminum-Case-GPS-Cellular-Pink-Sand-Sport-Band-Refurbished/1425655028?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 97.49,
-      "discount_pct": null,
-      "ebay_avg": 152.36,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Watch+Band&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 36.64,
-      "observed_at": "2026-04-04T20:21:59"
     },
     {
       "name": "Milwaukee 2446-20 M12 12V Cordless Lithium-Ion Grease Gun (Bare Tool)",
@@ -16916,24 +16484,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+M18+FUEL+Motor&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 36.44,
       "observed_at": "2026-04-04T20:11:56"
-    },
-    {
-      "name": "Restored Apple Watch Series 5 44MM Rose Gold Aluminum Case GPS + Cellular Pink Sand Sport Band (Refurbished)",
-      "sku": "1064038981",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Watch-Series-5-44MM-Rose-Gold-Aluminum-Case-GPS-Cellular-Pink-Sand-Sport-Band-Refurbished/1064038981?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 110.5,
-      "discount_pct": null,
-      "ebay_avg": 159.6,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Watch+Band&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 31.73,
-      "observed_at": "2026-04-04T20:44:27"
     },
     {
       "name": "Milwaukee 2855-22R 18V Brushless 1/2\" Compact Impact Wrench w/ Friction Ring Kit",
@@ -17008,24 +16558,6 @@
       "observed_at": "2026-04-04T20:23:08"
     },
     {
-      "name": "Restored Apple Watch Series 6 GPS - 40mm - Gold Case - Pink Sand Sport Band (Refurbished)",
-      "sku": "384677614",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Restored-Apple-Watch-Series-6-GPS-40mm-Gold-Case-Pink-Sand-Sport-Band-Refurbished/384677614?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 120.59,
-      "discount_pct": null,
-      "ebay_avg": 164.07,
-      "comp_count": 15,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+Watch+Band&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 26.95,
-      "observed_at": "2026-04-04T20:21:07"
-    },
-    {
       "name": "Cordless Reciprocating Saw for Dewalt 20V Battery, 150W Power Brush Reciprocating Saws, 0-3500 SPM Variable Speed, 4 Saw Blades Kit Cutting Tool for Wood Metal PVC (Not Included Battery )",
       "sku": "18940707010",
       "retailer": "walmart",
@@ -17057,37 +16589,15 @@
       "observed_at": "2026-03-10T16:23:29"
     },
     {
-      "name": "Restored Apple MacBook Pro MF839LL/A 13.3-Inch 128GB Laptop w/8GB RAM & Intel Core i5 Dual-Core 2.7 GHz Processor",
-      "sku": "45497968",
+      "name": "(Open Box) LG 55\" Class 4K (2160p) Smart LED TV (55UA7700AUA)",
+      "sku": "18719152395",
       "retailer": "walmart",
-      "listing_url": "https://www.walmart.com/ip/Apple-MacBook-Pro-with-Retina-display-13-3-Core-i5-8-GB-RAM-128-GB-flash-storage-English/45497968?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 199.0,
+      "listing_url": "https://www.walmart.com/ip/LG-55-Class-4K-2160p-Smart-LED-TV-55UA7700AUA/18719152395?conditionGroupCode=3&classType=REGULAR",
+      "hd_price": 182.0,
       "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+MacBook+Processor&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 625.16,
-      "observed_at": "2026-04-04T00:22:19"
-    },
-    {
-      "name": "Restored Apple MacBook Pro MF839LL/A 13.3-Inch 128GB Laptop w/8GB RAM & Intel Core i5 Dual-Core 2.7 GHz Processor",
-      "sku": "45497968",
-      "retailer": "walmart",
-      "listing_url": "https://www.walmart.com/ip/Apple-MacBook-Pro-with-Retina-display-13-3-Core-i5-8-GB-RAM-128-GB-flash-storage-English/45497968?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 199.0,
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+MacBook+Processor&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 625.16,
-      "observed_at": "2026-04-04T08:21:05"
-    },
-    {
-      "name": "Restored Apple MacBook Pro MF839LL/A 13.3-Inch 128GB Laptop w/8GB RAM & Intel Core i5 Dual-Core 2.7 GHz Processor",
-      "sku": "45497968",
-      "retailer": "walmart",
-      "listing_url": "https://www.walmart.com/ip/Apple-MacBook-Pro-with-Retina-display-13-3-Core-i5-8-GB-RAM-128-GB-flash-storage-English/45497968?conditionGroupCode=2&classType=REGULAR",
-      "hd_price": 199.0,
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Restored+MacBook+Processor&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 625.16,
-      "observed_at": "2026-04-04T20:44:16"
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=LG+Class+4K+TV&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 541.8,
+      "observed_at": "2026-04-04T00:03:01"
     },
     {
       "name": "(Open Box) LG 55\" Class 4K (2160p) Smart LED TV (55UA7700AUA)",
@@ -17098,7 +16608,29 @@
       "platform": "eBay",
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=LG+Class+4K+TV&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 541.8,
-      "observed_at": "2026-04-04T00:03:01"
+      "observed_at": "2026-04-04T08:20:58"
+    },
+    {
+      "name": "(Open Box) LG 55\" Class 4K (2160p) Smart LED TV (55UA7700AUA)",
+      "sku": "18719152395",
+      "retailer": "walmart",
+      "listing_url": "https://www.walmart.com/ip/LG-55-Class-4K-2160p-Smart-LED-TV-55UA7700AUA/18719152395?conditionGroupCode=3&classType=REGULAR",
+      "hd_price": 182.0,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=LG+Class+4K+TV&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 541.8,
+      "observed_at": "2026-04-04T20:44:09"
+    },
+    {
+      "name": "Verizon iPhone 16 Pro 128GB Black Titanium. Apple Intelligence.",
+      "sku": "11450724150",
+      "retailer": "walmart",
+      "listing_url": "https://www.walmart.com/ip/Verizon-iPhone-16-Pro-128GB-Black-Titanium-Apple-Intelligence/11450724150?classType=VARIANT",
+      "hd_price": 22.2,
+      "platform": "eBay",
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Apple+Verizon+iPhone+Pro+Intelligence&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 526.82,
+      "observed_at": "2026-04-04T01:15:30"
     }
   ]
 }
