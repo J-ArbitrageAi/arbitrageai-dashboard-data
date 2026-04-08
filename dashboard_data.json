@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-07T21:52:14",
+  "generated_at": "2026-04-08T18:55:57",
   "scan": {
-    "scan_id": "0b00ae7d-56c2-4f32-a3fa-e88b91570145",
-    "started_at": "2026-04-07T19:50:26",
-    "items_checked": 476
+    "scan_id": "manual",
+    "started_at": "2026-04-08T18:55:57",
+    "items_checked": 0
   },
   "watchlist": {
     "total": 478,
@@ -72,8 +72,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T19:57:28",
-      "ebay_avg": 249.74,
-      "roi_pct": 0.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 4947,
@@ -112,8 +112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T19:58:08",
-      "ebay_avg": 18.35,
-      "roi_pct": -52.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 91,
@@ -172,8 +172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T19:58:30",
-      "ebay_avg": 461.2,
-      "roi_pct": -16.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 114,
@@ -212,8 +212,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T19:59:19",
-      "ebay_avg": 18.35,
-      "roi_pct": -52.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 165,
@@ -232,8 +232,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T19:59:39",
-      "ebay_avg": 130.01,
-      "roi_pct": -6.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 472,
@@ -272,8 +272,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T19:59:46",
-      "ebay_avg": 69.55,
-      "roi_pct": 0.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 153,
@@ -312,8 +312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:00:54",
-      "ebay_avg": 85.53,
-      "roi_pct": -13.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 416,
@@ -372,8 +372,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:00:34",
-      "ebay_avg": 187.69,
-      "roi_pct": -18.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1537,
@@ -412,8 +412,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:01:03",
-      "ebay_avg": 352.42,
-      "roi_pct": -21.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 4068,
@@ -432,8 +432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:01:23",
-      "ebay_avg": 53.0,
-      "roi_pct": 51.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 104,
@@ -452,8 +452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:01:44",
-      "ebay_avg": 94.4,
-      "roi_pct": -20.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 175,
@@ -472,8 +472,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:02:11",
-      "ebay_avg": 207.5,
-      "roi_pct": -51.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 514,
@@ -512,8 +512,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:02:32",
-      "ebay_avg": 136.98,
-      "roi_pct": -1.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1549,
@@ -652,8 +652,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:04:06",
-      "ebay_avg": 124.59,
-      "roi_pct": 4.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 132,
@@ -712,8 +712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:04:14",
-      "ebay_avg": 630.1,
-      "roi_pct": -58.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 372,
@@ -772,8 +772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:04:45",
-      "ebay_avg": 207.5,
-      "roi_pct": -36.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 596,
@@ -812,8 +812,8 @@
       "inventory_qty": null,
       "has_bogo": 1,
       "last_checked_at": "2026-04-07T20:05:27",
-      "ebay_avg": 72.64,
-      "roi_pct": -8.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 438,
@@ -852,8 +852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:05:52",
-      "ebay_avg": 190.16,
-      "roi_pct": -31.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 253,
@@ -872,8 +872,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:06:13",
-      "ebay_avg": 80.84,
-      "roi_pct": -18.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3005,
@@ -912,8 +912,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:06:19",
-      "ebay_avg": 445.78,
-      "roi_pct": -25.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 439,
@@ -952,8 +952,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:06:55",
-      "ebay_avg": 376.8,
-      "roi_pct": -46.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 557,
@@ -992,8 +992,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:07:39",
-      "ebay_avg": 555.63,
-      "roi_pct": -14.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 138,
@@ -1012,8 +1012,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:08:03",
-      "ebay_avg": 376.8,
-      "roi_pct": -27.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 97,
@@ -1032,8 +1032,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:08:49",
-      "ebay_avg": 163.93,
-      "roi_pct": -8.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 151,
@@ -1132,8 +1132,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:09:47",
-      "ebay_avg": 164.54,
-      "roi_pct": -43.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 93,
@@ -1172,8 +1172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:10:08",
-      "ebay_avg": 94.59,
-      "roi_pct": 178.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 322,
@@ -1192,8 +1192,8 @@
       "inventory_qty": null,
       "has_bogo": 1,
       "last_checked_at": "2026-04-07T20:11:15",
-      "ebay_avg": 305.57,
-      "roi_pct": 2.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 415,
@@ -1252,8 +1252,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:11:53",
-      "ebay_avg": 285.89,
-      "roi_pct": -36.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 139,
@@ -1272,8 +1272,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:11:34",
-      "ebay_avg": 376.8,
-      "roi_pct": -31.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 369,
@@ -1312,8 +1312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:12:39",
-      "ebay_avg": 458.0,
-      "roi_pct": -54.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 163,
@@ -1332,8 +1332,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:38:14",
-      "ebay_avg": 72.23,
-      "roi_pct": 3.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 176,
@@ -1352,8 +1352,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:13:46",
-      "ebay_avg": 432.99,
-      "roi_pct": -38.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 178,
@@ -1412,8 +1412,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:13:02",
-      "ebay_avg": 405.12,
-      "roi_pct": -9.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 653,
@@ -1432,8 +1432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:13:17",
-      "ebay_avg": 67.47,
-      "roi_pct": -3.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3026,
@@ -1452,8 +1452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:11:59",
-      "ebay_avg": 629.66,
-      "roi_pct": -47.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5474,
@@ -1532,8 +1532,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:14:19",
-      "ebay_avg": 168.76,
-      "roi_pct": -32.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 194,
@@ -1572,8 +1572,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:14:56",
-      "ebay_avg": 582.57,
-      "roi_pct": -20.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 610,
@@ -1592,8 +1592,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:15:18",
-      "ebay_avg": 382.91,
-      "roi_pct": -41.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 658,
@@ -1612,8 +1612,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:15:38",
-      "ebay_avg": 340.0,
-      "roi_pct": -14.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 142,
@@ -1632,8 +1632,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:16:16",
-      "ebay_avg": 94.59,
-      "roi_pct": 170.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 197,
@@ -1672,8 +1672,8 @@
       "inventory_qty": null,
       "has_bogo": 1,
       "last_checked_at": "2026-04-07T20:16:09",
-      "ebay_avg": 106.1,
-      "roi_pct": -10.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 174,
@@ -1712,8 +1712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:17:05",
-      "ebay_avg": 629.66,
-      "roi_pct": -47.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 243,
@@ -1732,8 +1732,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:17:30",
-      "ebay_avg": 110.46,
-      "roi_pct": -25.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 342,
@@ -1772,8 +1772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:17:43",
-      "ebay_avg": 462.31,
-      "roi_pct": -42.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1508,
@@ -1832,8 +1832,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:18:35",
-      "ebay_avg": 78.79,
-      "roi_pct": -38.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 244,
@@ -1852,8 +1852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:18:06",
-      "ebay_avg": 81.62,
-      "roi_pct": -36.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 619,
@@ -1872,8 +1872,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:18:14",
-      "ebay_avg": 382.91,
-      "roi_pct": -36.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 110,
@@ -1892,8 +1892,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:19:15",
-      "ebay_avg": 463.12,
-      "roi_pct": -7.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 148,
@@ -1932,8 +1932,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:19:29",
-      "ebay_avg": 153.82,
-      "roi_pct": -9.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 242,
@@ -1952,8 +1952,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:19:23",
-      "ebay_avg": 128.79,
-      "roi_pct": -23.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 246,
@@ -1972,8 +1972,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:18:51",
-      "ebay_avg": 191.71,
-      "roi_pct": -35.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 105,
@@ -1992,8 +1992,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:19:37",
-      "ebay_avg": 52.04,
-      "roi_pct": -24.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 164,
@@ -2032,8 +2032,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:19:59",
-      "ebay_avg": 382.91,
-      "roi_pct": -45.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 327,
@@ -2052,8 +2052,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:21:13",
-      "ebay_avg": 150.45,
-      "roi_pct": 8.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 480,
@@ -2072,8 +2072,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:20:48",
-      "ebay_avg": 191.25,
-      "roi_pct": -23.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 102,
@@ -2092,8 +2092,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:23:11",
-      "ebay_avg": 436.97,
-      "roi_pct": -36.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 112,
@@ -2112,8 +2112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:21:36",
-      "ebay_avg": 281.65,
-      "roi_pct": 17.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 116,
@@ -2172,8 +2172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:22:11",
-      "ebay_avg": 175.74,
-      "roi_pct": -11.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 371,
@@ -2212,8 +2212,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:22:38",
-      "ebay_avg": 191.25,
-      "roi_pct": -20.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3451,
@@ -2232,8 +2232,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:23:01",
-      "ebay_avg": 238.72,
-      "roi_pct": -4.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 120,
@@ -2312,8 +2312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:23:23",
-      "ebay_avg": 458.0,
-      "roi_pct": -58.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 117,
@@ -2452,8 +2452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:24:00",
-      "ebay_avg": 49.3,
-      "roi_pct": 9.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 109,
@@ -2472,8 +2472,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:24:26",
-      "ebay_avg": 458.0,
-      "roi_pct": -54.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 121,
@@ -2512,8 +2512,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:24:52",
-      "ebay_avg": 458.0,
-      "roi_pct": -54.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 221,
@@ -2532,8 +2532,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:25:17",
-      "ebay_avg": 191.25,
-      "roi_pct": 112.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 248,
@@ -2552,8 +2552,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:26:33",
-      "ebay_avg": 46.67,
-      "roi_pct": 33.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 384,
@@ -2592,8 +2592,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:25:49",
-      "ebay_avg": 96.57,
-      "roi_pct": -2.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 565,
@@ -2612,8 +2612,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:25:59",
-      "ebay_avg": 191.25,
-      "roi_pct": -3.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5966,
@@ -2632,8 +2632,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:26:21",
-      "ebay_avg": 70.95,
-      "roi_pct": -5.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 94,
@@ -2712,8 +2712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:26:58",
-      "ebay_avg": 191.71,
-      "roi_pct": -39.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 122,
@@ -2772,8 +2772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:27:38",
-      "ebay_avg": 337.33,
-      "roi_pct": -23.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 260,
@@ -2812,8 +2812,8 @@
       "inventory_qty": null,
       "has_bogo": 1,
       "last_checked_at": "2026-04-07T20:28:32",
-      "ebay_avg": 173.0,
-      "roi_pct": 2.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 247,
@@ -2832,8 +2832,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:28:42",
-      "ebay_avg": 144.23,
-      "roi_pct": -47.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1561,
@@ -2852,8 +2852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:28:50",
-      "ebay_avg": 169.0,
-      "roi_pct": -10.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1562,
@@ -3032,8 +3032,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:30:56",
-      "ebay_avg": 152.31,
-      "roi_pct": -1.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1572,
@@ -3052,8 +3052,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:31:26",
-      "ebay_avg": 186.52,
-      "roi_pct": 112.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1573,
@@ -3092,8 +3092,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:31:52",
-      "ebay_avg": 152.31,
-      "roi_pct": 17.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1577,
@@ -3112,8 +3112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:32:13",
-      "ebay_avg": 16.99,
-      "roi_pct": -19.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1579,
@@ -3152,8 +3152,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:32:35",
-      "ebay_avg": 186.31,
-      "roi_pct": 10.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1581,
@@ -3172,8 +3172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:33:05",
-      "ebay_avg": 216.44,
-      "roi_pct": 62.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1582,
@@ -3252,8 +3252,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:33:41",
-      "ebay_avg": 72.66,
-      "roi_pct": 96.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1587,
@@ -3292,8 +3292,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:34:01",
-      "ebay_avg": 216.44,
-      "roi_pct": -5.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1589,
@@ -3312,8 +3312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:34:22",
-      "ebay_avg": 108.75,
-      "roi_pct": 262.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1590,
@@ -3372,8 +3372,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:35:18",
-      "ebay_avg": 149.52,
-      "roi_pct": -16.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1593,
@@ -3412,8 +3412,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:35:41",
-      "ebay_avg": 152.31,
-      "roi_pct": 21.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1598,
@@ -3452,8 +3452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:36:23",
-      "ebay_avg": 339.62,
-      "roi_pct": 99.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1600,
@@ -3592,8 +3592,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:36:51",
-      "ebay_avg": 79.5,
-      "roi_pct": 257.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1616,
@@ -3632,8 +3632,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:37:14",
-      "ebay_avg": 216.44,
-      "roi_pct": 33.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1620,
@@ -3672,8 +3672,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:37:37",
-      "ebay_avg": 186.31,
-      "roi_pct": 11.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1623,
@@ -3712,8 +3712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:37:57",
-      "ebay_avg": 136.39,
-      "roi_pct": -19.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1626,
@@ -3752,8 +3752,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:38:17",
-      "ebay_avg": 108.75,
-      "roi_pct": 276.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1629,
@@ -3792,8 +3792,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:39:09",
-      "ebay_avg": 305.57,
-      "roi_pct": 1.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1631,
@@ -3852,8 +3852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:39:30",
-      "ebay_avg": 337.33,
-      "roi_pct": -20.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1635,
@@ -3872,8 +3872,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:39:52",
-      "ebay_avg": 216.44,
-      "roi_pct": -1.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1638,
@@ -3892,8 +3892,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:40:14",
-      "ebay_avg": 376.8,
-      "roi_pct": -23.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1639,
@@ -3912,8 +3912,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:40:33",
-      "ebay_avg": 112.4,
-      "roi_pct": 176.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1640,
@@ -3932,8 +3932,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:40:57",
-      "ebay_avg": 153.14,
-      "roi_pct": 28.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1641,
@@ -3972,8 +3972,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:41:19",
-      "ebay_avg": 128.39,
-      "roi_pct": 3.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1645,
@@ -4112,8 +4112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:42:01",
-      "ebay_avg": 155.76,
-      "roi_pct": -38.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1653,
@@ -4152,8 +4152,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:42:22",
-      "ebay_avg": 194.43,
-      "roi_pct": 21.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1655,
@@ -4272,8 +4272,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:42:45",
-      "ebay_avg": 194.43,
-      "roi_pct": 50.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1662,
@@ -4312,8 +4312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:43:09",
-      "ebay_avg": 43.79,
-      "roi_pct": 75.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1664,
@@ -4372,8 +4372,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:43:48",
-      "ebay_avg": 68.96,
-      "roi_pct": 97.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1667,
@@ -4432,8 +4432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:44:13",
-      "ebay_avg": 219.99,
-      "roi_pct": -45.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1671,
@@ -4452,8 +4452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:44:32",
-      "ebay_avg": 49.58,
-      "roi_pct": 90.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1672,
@@ -4472,8 +4472,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:44:53",
-      "ebay_avg": 206.65,
-      "roi_pct": -16.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1673,
@@ -4492,8 +4492,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:45:13",
-      "ebay_avg": 158.48,
-      "roi_pct": -6.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1674,
@@ -4512,8 +4512,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:45:32",
-      "ebay_avg": 163.77,
-      "roi_pct": -29.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1675,
@@ -4632,8 +4632,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:45:54",
-      "ebay_avg": 213.31,
-      "roi_pct": -48.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1683,
@@ -4652,8 +4652,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:46:14",
-      "ebay_avg": 206.65,
-      "roi_pct": -14.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1684,
@@ -4672,8 +4672,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:46:33",
-      "ebay_avg": 143.31,
-      "roi_pct": 253.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1685,
@@ -4772,8 +4772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:46:58",
-      "ebay_avg": 163.77,
-      "roi_pct": -18.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1690,
@@ -4812,8 +4812,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:47:20",
-      "ebay_avg": 206.65,
-      "roi_pct": 21.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1692,
@@ -4852,8 +4852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:48:13",
-      "ebay_avg": 206.65,
-      "roi_pct": -35.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1694,
@@ -4872,8 +4872,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:48:33",
-      "ebay_avg": 194.98,
-      "roi_pct": -22.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1695,
@@ -4932,8 +4932,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:48:59",
-      "ebay_avg": 58.54,
-      "roi_pct": 124.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1698,
@@ -4972,8 +4972,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:49:20",
-      "ebay_avg": 137.43,
-      "roi_pct": 194.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1700,
@@ -5012,8 +5012,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:49:44",
-      "ebay_avg": 34.51,
-      "roi_pct": 1.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1702,
@@ -5052,8 +5052,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:50:28",
-      "ebay_avg": 188.28,
-      "roi_pct": -39.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1704,
@@ -5072,8 +5072,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:50:50",
-      "ebay_avg": 197.73,
-      "roi_pct": -34.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1706,
@@ -5092,8 +5092,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:51:11",
-      "ebay_avg": 70.89,
-      "roi_pct": 102.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1707,
@@ -5112,8 +5112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:51:32",
-      "ebay_avg": 213.62,
-      "roi_pct": -13.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1710,
@@ -5212,8 +5212,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:52:22",
-      "ebay_avg": 189.78,
-      "roi_pct": -35.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1715,
@@ -5332,8 +5332,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:53:50",
-      "ebay_avg": 76.11,
-      "roi_pct": -36.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1722,
@@ -5352,8 +5352,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:54:10",
-      "ebay_avg": 41.76,
-      "roi_pct": -11.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1723,
@@ -5372,8 +5372,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:54:32",
-      "ebay_avg": 41.76,
-      "roi_pct": 17.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1724,
@@ -5392,8 +5392,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:54:51",
-      "ebay_avg": 108.86,
-      "roi_pct": -35.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1725,
@@ -5412,8 +5412,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:55:11",
-      "ebay_avg": 152.39,
-      "roi_pct": -17.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1726,
@@ -5432,8 +5432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:55:29",
-      "ebay_avg": 281.65,
-      "roi_pct": 41.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1727,
@@ -5452,8 +5452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:55:53",
-      "ebay_avg": 128.58,
-      "roi_pct": -30.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1728,
@@ -5492,8 +5492,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:56:35",
-      "ebay_avg": 41.76,
-      "roi_pct": 81.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1731,
@@ -5572,8 +5572,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:57:26",
-      "ebay_avg": 128.58,
-      "roi_pct": -28.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1735,
@@ -5592,8 +5592,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:57:57",
-      "ebay_avg": 47.15,
-      "roi_pct": -42.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1737,
@@ -5612,8 +5612,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:58:18",
-      "ebay_avg": 75.03,
-      "roi_pct": -37.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1738,
@@ -5652,8 +5652,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:59:00",
-      "ebay_avg": 41.76,
-      "roi_pct": -28.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1741,
@@ -5692,8 +5692,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T20:59:43",
-      "ebay_avg": 55.83,
-      "roi_pct": 15.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1744,
@@ -5712,8 +5712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:00:04",
-      "ebay_avg": 88.13,
-      "roi_pct": -19.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1746,
@@ -5732,8 +5732,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:00:27",
-      "ebay_avg": 102.94,
-      "roi_pct": -47.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1747,
@@ -5772,8 +5772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:01:07",
-      "ebay_avg": 143.5,
-      "roi_pct": -41.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2057,
@@ -5832,8 +5832,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:01:26",
-      "ebay_avg": 76.5,
-      "roi_pct": 266.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2067,
@@ -5872,8 +5872,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:02:11",
-      "ebay_avg": 101.75,
-      "roi_pct": 347.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2071,
@@ -5892,8 +5892,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:02:37",
-      "ebay_avg": 192.5,
-      "roi_pct": 17.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2073,
@@ -5972,8 +5972,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:03:19",
-      "ebay_avg": 196.54,
-      "roi_pct": -13.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2102,
@@ -5992,8 +5992,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:03:40",
-      "ebay_avg": 147.33,
-      "roi_pct": 147.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2109,
@@ -6012,8 +6012,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:04:06",
-      "ebay_avg": 196.54,
-      "roi_pct": -17.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2111,
@@ -6032,8 +6032,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:04:24",
-      "ebay_avg": 169.04,
-      "roi_pct": 13.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2112,
@@ -6092,8 +6092,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:05:09",
-      "ebay_avg": 110.4,
-      "roi_pct": 338.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2116,
@@ -6112,8 +6112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:05:32",
-      "ebay_avg": 147.33,
-      "roi_pct": 250.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2123,
@@ -6192,8 +6192,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:06:18",
-      "ebay_avg": 23.05,
-      "roi_pct": -53.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2681,
@@ -6212,8 +6212,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:06:36",
-      "ebay_avg": 91.2,
-      "roi_pct": 98.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2685,
@@ -6252,8 +6252,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:07:25",
-      "ebay_avg": 118.97,
-      "roi_pct": 261.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2715,
@@ -6272,8 +6272,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:07:52",
-      "ebay_avg": 48.6,
-      "roi_pct": -9.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3029,
@@ -6292,8 +6292,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:08:11",
-      "ebay_avg": 147.33,
-      "roi_pct": 273.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3032,
@@ -6332,8 +6332,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:08:56",
-      "ebay_avg": 159.24,
-      "roi_pct": 127.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3098,
@@ -6352,8 +6352,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:09:21",
-      "ebay_avg": 125.14,
-      "roi_pct": 272.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3104,
@@ -6512,8 +6512,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:10:25",
-      "ebay_avg": 46.16,
-      "roi_pct": -26.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3628,
@@ -6552,8 +6552,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:10:44",
-      "ebay_avg": 189.3,
-      "roi_pct": -36.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 3689,
@@ -6672,8 +6672,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:11:43",
-      "ebay_avg": 208.5,
-      "roi_pct": -44.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 4237,
@@ -6712,8 +6712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:12:05",
-      "ebay_avg": 61.44,
-      "roi_pct": 142.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 4475,
@@ -6752,8 +6752,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:12:25",
-      "ebay_avg": 167.41,
-      "roi_pct": -18.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 4527,
@@ -6812,8 +6812,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:13:07",
-      "ebay_avg": 21.79,
-      "roi_pct": -56.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 4607,
@@ -6832,8 +6832,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:13:28",
-      "ebay_avg": 112.48,
-      "roi_pct": 19.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 4610,
@@ -6852,8 +6852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:13:54",
-      "ebay_avg": 28.96,
-      "roi_pct": -54.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5017,
@@ -6932,8 +6932,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:15:11",
-      "ebay_avg": 144.1,
-      "roi_pct": -3.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5083,
@@ -6952,8 +6952,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:15:33",
-      "ebay_avg": 110.37,
-      "roi_pct": -21.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5087,
@@ -6972,8 +6972,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:15:50",
-      "ebay_avg": 219.53,
-      "roi_pct": -1.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5098,
@@ -6992,8 +6992,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:16:13",
-      "ebay_avg": 35.59,
-      "roi_pct": -40.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5103,
@@ -7012,8 +7012,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:16:34",
-      "ebay_avg": 22.25,
-      "roi_pct": -15.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5115,
@@ -7032,8 +7032,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:16:56",
-      "ebay_avg": 76.11,
-      "roi_pct": -36.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5129,
@@ -7072,8 +7072,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:17:20",
-      "ebay_avg": 92.88,
-      "roi_pct": -5.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5131,
@@ -7112,8 +7112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:17:41",
-      "ebay_avg": 209.66,
-      "roi_pct": -53.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5299,
@@ -7132,8 +7132,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:18:03",
-      "ebay_avg": 92.82,
-      "roi_pct": 330.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5301,
@@ -7172,8 +7172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:18:46",
-      "ebay_avg": 58.9,
-      "roi_pct": 101.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5409,
@@ -7232,8 +7232,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:19:08",
-      "ebay_avg": 92.82,
-      "roi_pct": 322.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5564,
@@ -7252,8 +7252,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:19:36",
-      "ebay_avg": 118.45,
-      "roi_pct": 4.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5582,
@@ -7352,8 +7352,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:20:47",
-      "ebay_avg": 191.5,
-      "roi_pct": -41.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5785,
@@ -7392,8 +7392,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:21:08",
-      "ebay_avg": 191.5,
-      "roi_pct": 26.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5800,
@@ -7432,8 +7432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:21:27",
-      "ebay_avg": 59.65,
-      "roi_pct": 10.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5810,
@@ -7452,8 +7452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:21:47",
-      "ebay_avg": 219.53,
-      "roi_pct": 29.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5814,
@@ -7492,8 +7492,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:22:11",
-      "ebay_avg": 123.41,
-      "roi_pct": -37.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5819,
@@ -7552,8 +7552,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:22:32",
-      "ebay_avg": 58.9,
-      "roi_pct": 180.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5862,
@@ -7572,8 +7572,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:22:55",
-      "ebay_avg": 123.41,
-      "roi_pct": -38.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5872,
@@ -7592,8 +7592,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:23:16",
-      "ebay_avg": 58.78,
-      "roi_pct": 27.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5876,
@@ -7612,8 +7612,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:23:37",
-      "ebay_avg": 61.37,
-      "roi_pct": 42.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5883,
@@ -7632,8 +7632,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:24:03",
-      "ebay_avg": 54.01,
-      "roi_pct": 17.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5892,
@@ -7672,8 +7672,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:24:46",
-      "ebay_avg": 48.02,
-      "roi_pct": -53.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 5920,
@@ -7692,8 +7692,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:25:09",
-      "ebay_avg": 338.74,
-      "roi_pct": -15.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6005,
@@ -7712,8 +7712,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:25:29",
-      "ebay_avg": 191.5,
-      "roi_pct": 63.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6086,
@@ -7772,8 +7772,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:26:20",
-      "ebay_avg": 55.44,
-      "roi_pct": -1.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6185,
@@ -7792,8 +7792,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:26:38",
-      "ebay_avg": 42.96,
-      "roi_pct": -25.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6287,
@@ -7852,8 +7852,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:27:42",
-      "ebay_avg": 172.15,
-      "roi_pct": 177.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6336,
@@ -7872,8 +7872,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:28:05",
-      "ebay_avg": 130.07,
-      "roi_pct": 304.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6337,
@@ -7892,8 +7892,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:28:30",
-      "ebay_avg": 178.64,
-      "roi_pct": -15.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6343,
@@ -7912,8 +7912,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:28:49",
-      "ebay_avg": 139.24,
-      "roi_pct": 257.0
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6393,
@@ -7952,8 +7952,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:29:35",
-      "ebay_avg": 34.56,
-      "roi_pct": -49.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6420,
@@ -7972,8 +7972,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:29:56",
-      "ebay_avg": 139.24,
-      "roi_pct": 3.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6422,
@@ -7992,8 +7992,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:30:18",
-      "ebay_avg": 143.31,
-      "roi_pct": 266.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6427,
@@ -8032,8 +8032,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:31:08",
-      "ebay_avg": 54.01,
-      "roi_pct": -6.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 6459,
@@ -8092,8 +8092,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:32:11",
-      "ebay_avg": 332.89,
-      "roi_pct": -58.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 90,
@@ -8112,8 +8112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:32:43",
-      "ebay_avg": 642.67,
-      "roi_pct": -28.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 108,
@@ -8132,8 +8132,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:32:55",
-      "ebay_avg": 183.53,
-      "roi_pct": -19.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 128,
@@ -8152,8 +8152,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:33:20",
-      "ebay_avg": 622.66,
-      "roi_pct": -34.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 131,
@@ -8172,8 +8172,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:33:41",
-      "ebay_avg": 117.07,
-      "roi_pct": -66.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 135,
@@ -8192,8 +8192,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:34:26",
-      "ebay_avg": 183.53,
-      "roi_pct": 54.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 143,
@@ -8212,8 +8212,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:34:58",
-      "ebay_avg": 26.32,
-      "roi_pct": -12.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 147,
@@ -8312,8 +8312,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:37:06",
-      "ebay_avg": 112.77,
-      "roi_pct": -50.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 161,
@@ -8372,8 +8372,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:39:32",
-      "ebay_avg": 147.49,
-      "roi_pct": -25.9
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 169,
@@ -8392,8 +8392,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:39:54",
-      "ebay_avg": 126.66,
-      "roi_pct": -32.2
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 183,
@@ -8432,8 +8432,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:40:36",
-      "ebay_avg": 215.89,
-      "roi_pct": -22.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 195,
@@ -8452,8 +8452,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:41:01",
-      "ebay_avg": 289.33,
-      "roi_pct": -23.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 196,
@@ -8472,8 +8472,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:41:11",
-      "ebay_avg": 78.14,
-      "roi_pct": -43.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 213,
@@ -8512,8 +8512,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:41:44",
-      "ebay_avg": 182.41,
-      "roi_pct": -23.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 241,
@@ -8572,8 +8572,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:42:33",
-      "ebay_avg": 119.01,
-      "roi_pct": -26.3
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 284,
@@ -8612,8 +8612,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:42:55",
-      "ebay_avg": 217.21,
-      "roi_pct": -64.6
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 373,
@@ -8632,8 +8632,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:43:16",
-      "ebay_avg": 170.0,
-      "roi_pct": -31.7
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 538,
@@ -8652,8 +8652,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:43:50",
-      "ebay_avg": 70.27,
-      "roi_pct": -52.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1570,
@@ -8672,8 +8672,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:43:58",
-      "ebay_avg": 118.99,
-      "roi_pct": 250.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1574,
@@ -8692,8 +8692,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:44:22",
-      "ebay_avg": 182.41,
-      "roi_pct": -37.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1576,
@@ -8792,8 +8792,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:45:06",
-      "ebay_avg": 182.41,
-      "roi_pct": -39.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1596,
@@ -8812,8 +8812,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:45:33",
-      "ebay_avg": 184.72,
-      "roi_pct": -26.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1605,
@@ -8832,8 +8832,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:45:58",
-      "ebay_avg": 110.85,
-      "roi_pct": 232.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1617,
@@ -8892,8 +8892,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:46:48",
-      "ebay_avg": 95.56,
-      "roi_pct": -4.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1636,
@@ -8912,8 +8912,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:47:13",
-      "ebay_avg": 34.99,
-      "roi_pct": 45.8
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1637,
@@ -8932,8 +8932,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:47:34",
-      "ebay_avg": 55.99,
-      "roi_pct": 80.1
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1642,
@@ -9052,8 +9052,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:48:37",
-      "ebay_avg": 204.3,
-      "roi_pct": -14.5
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 1678,
@@ -9112,8 +9112,8 @@
       "inventory_qty": null,
       "has_bogo": 0,
       "last_checked_at": "2026-04-07T21:49:04",
-      "ebay_avg": 57.48,
-      "roi_pct": -54.4
+      "ebay_avg": 0,
+      "roi_pct": null
     },
     {
       "item_id": 2058,
@@ -9578,25 +9578,6 @@
   ],
   "recent_alerts": [
     {
-      "name": "Milwaukee M18 18-Gauge Cordless Double Cut Metal Shear (2635-20)  Variable Speed, 360 Rotating Head, Tool Only",
-      "sku": "101322838",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/MILWAUKEE-M18-18-VOLT-LITHIUM-ION-CORDLESS-18-GAUGE-DOUBLE-CUT-METAL-SHEAR-BARE-TOOL/101322838?classType=REGULAR",
-      "hd_price": 169.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 339.62,
-      "comp_count": 8,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 134.19,
-      "observed_at": "2026-04-07T20:36:23"
-    },
-    {
       "name": "Milwaukee Tool DIGITAL MULTIMETER ELECTRICAL COMBO KIT",
       "sku": "103256960",
       "retailer": "walmart",
@@ -9654,25 +9635,6 @@
       "observed_at": "2026-04-07T20:29:16"
     },
     {
-      "name": "Milwaukee Tool Clamp Meter for HVAC/R",
-      "sku": "38001552",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-Clamp-Meter-for-HVAC-R/38001552?classType=REGULAR",
-      "hd_price": 61.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 172.15,
-      "comp_count": 12,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 83.64,
-      "observed_at": "2026-04-07T21:27:42"
-    },
-    {
       "name": "DEWALT Tough Box Tool Kit, 1/4\" & 3/8\" Drive Socket Set",
       "sku": "133674813",
       "retailer": "walmart",
@@ -9690,139 +9652,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+Tool+Kit&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 83.09,
       "observed_at": "2026-04-07T20:41:38"
-    },
-    {
-      "name": "Milwaukee 48-32-4094 SHOCKWAVE 80PC Impact Duty Driver Bit Set",
-      "sku": "5374716385",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-48-32-4094-SHOCKWAVE-80PC-Impact-Duty-Driver-Bit-Set/5374716385?classType=REGULAR&athbdg=L1600",
-      "hd_price": 39.5,
-      "discount_pct": 0.0,
-      "ebay_avg": 147.33,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 81.65,
-      "observed_at": "2026-04-07T21:08:11"
-    },
-    {
-      "name": "Milwaukee Tool 9\" Lineman's Dipped Grip Pliers w/ Thread Cleaner (USA)",
-      "sku": "12129415810",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-MT500T-9-in-Lineman-s-Pliers-with-Thread-Cleaner-Fish-Tape-Puller-and-Dipped-Grip/12129415810?classType=REGULAR",
-      "hd_price": 41.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 147.33,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 79.54,
-      "observed_at": "2026-04-07T21:05:32"
-    },
-    {
-      "name": "Dewalt DWHT70291 10 in. Adjustable Wrench",
-      "sku": "108739880",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Dewalt-DWHT70291-10-in-Adjustable-Wrench/108739880?classType=REGULAR",
-      "hd_price": 39.08,
-      "discount_pct": 0.0,
-      "ebay_avg": 143.31,
-      "comp_count": 13,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Dewalt+Wrench&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 78.6,
-      "observed_at": "2026-04-07T21:30:18"
-    },
-    {
-      "name": "DEWALT DWHT70292 12 in. Adjustable Wrench",
-      "sku": "26986577",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/DEWALT-DWHT70292-12-in-Adjustable-Wrench/26986577?classType=REGULAR",
-      "hd_price": 40.58,
-      "discount_pct": 0.0,
-      "ebay_avg": 143.31,
-      "comp_count": 13,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+Wrench&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 77.32,
-      "observed_at": "2026-04-07T20:46:33"
-    },
-    {
-      "name": "Pry Bar and Hook and Pick Mechanic Tool Set (14-Piece )",
-      "sku": "309796679",
-      "retailer": "homedepot",
-      "brand": "Milwaukee",
-      "listing_url": "https://www.homedepot.com/p/Milwaukee-Pry-Bar-and-Hook-and-Pick-Mechanic-Tool-Set-14-Piece-48-22-9214-48-22-9215-48-22-2706/309796679",
-      "hd_price": 89.97,
-      "discount_pct": 17.0,
-      "ebay_avg": 191.25,
-      "comp_count": 4,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 76.09,
-      "observed_at": "2026-04-07T20:25:17"
-    },
-    {
-      "name": "Milwaukee Tool 16\" REDSTICK Magnetic Box Level",
-      "sku": "677297032",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-16-REDSTICK-Magnetic-Box-Level/677297032?classType=VARIANT",
-      "hd_price": 39.0,
-      "discount_pct": 0.0,
-      "ebay_avg": 139.24,
-      "comp_count": 12,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 75.2,
-      "observed_at": "2026-04-07T21:28:49"
-    },
-    {
-      "name": "Milwaukee Tool 1/4-inch Socket Wrench & Set, 26 Piece",
-      "sku": "856694770",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-1-4-inch-Socket-Wrench-Set-26-Piece/856694770?classType=REGULAR",
-      "hd_price": 87.9,
-      "discount_pct": 0.0,
-      "ebay_avg": 186.52,
-      "comp_count": 11,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+Wrench&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 73.83,
-      "observed_at": "2026-04-07T20:31:26"
     },
     {
       "name": "Milwaukee 2457-20 M12 Cordless 3/8\" Ratchet  35 ft-lbs Torque, 250 RPM, Low-Profile Head, Variable-Speed Trigger, Compact & Durable Design (Bare Tool)",
@@ -9844,25 +9673,6 @@
       "observed_at": "2026-04-07T21:20:23"
     },
     {
-      "name": "Milwaukee Tool 9-in-1 Square Drive Ratcheting Multi-bit Driver",
-      "sku": "203090912",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-9-in-1-Square-Drive-Ratcheting-Multi-bit-Driver/203090912?classType=REGULAR",
-      "hd_price": 32.15,
-      "discount_pct": 0.0,
-      "ebay_avg": 130.07,
-      "comp_count": 11,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+Ratchet&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 73.24,
-      "observed_at": "2026-04-07T21:28:05"
-    },
-    {
       "name": "2026 New Model 3-In-1 Foam Cutting Tool That Works with Dewalt 20V Batteries, 18W Hot Wire Foam Cutting Kit Featuring USB & Type-C Charging PortsNo Battery",
       "sku": "19682365241",
       "retailer": "walmart",
@@ -9880,63 +9690,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=2026+20V+2026&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 70.29,
       "observed_at": "2026-04-07T21:30:44"
-    },
-    {
-      "name": "Milwaukee Tool 4lb Fiberglass Engineer Hammer",
-      "sku": "17654051440",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-4lb-Fiberglass-Engineer-Hammer/17654051440?classType=REGULAR",
-      "hd_price": 33.56,
-      "discount_pct": 0.0,
-      "ebay_avg": 125.14,
-      "comp_count": 7,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 67.84,
-      "observed_at": "2026-04-07T21:09:21"
-    },
-    {
-      "name": "DeWalt 3/8\" Hammer Tacker Yellow",
-      "sku": "855768525",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/DeWalt-3-8-Hammer-Tacker-Yellow/855768525?classType=REGULAR",
-      "hd_price": 46.74,
-      "discount_pct": 0.0,
-      "ebay_avg": 137.43,
-      "comp_count": 11,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DeWalt&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 67.08,
-      "observed_at": "2026-04-07T20:49:20"
-    },
-    {
-      "name": "Milwaukee Tool 13PC Tri-Lobe Screwdriver Set",
-      "sku": "18005372143",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-13PC-Tri-Lobe-Screwdriver-Set/18005372143?classType=REGULAR",
-      "hd_price": 69.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 159.24,
-      "comp_count": 12,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 65.87,
-      "observed_at": "2026-04-07T21:08:56"
     },
     {
       "name": "Milwaukee M18 6-1/4\" 18V Cordless Circular Saw 2630-20 (Bare Tool)",
@@ -9958,272 +9711,6 @@
       "observed_at": "2026-04-07T21:46:44"
     },
     {
-      "name": "Milwaukee Tool Comfort Grip Pliers Kit - 3 PC",
-      "sku": "903011447",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-Comfort-Grip-Pliers-Kit-3-PC/903011447?classType=REGULAR",
-      "hd_price": 59.63,
-      "discount_pct": 0.0,
-      "ebay_avg": 147.33,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 64.54,
-      "observed_at": "2026-04-07T21:03:40"
-    },
-    {
-      "name": "DEWALT DWMT75210OSP Combination Wrench, SAE, 3/8 in Head, 5-11/32 in L",
-      "sku": "196584895",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/DEWALT-DWMT75210OSP-Combination-Wrench-SAE-3-8-in-Head-5-11-32-in-L/196584895?classType=REGULAR",
-      "hd_price": 32.94,
-      "discount_pct": 0.0,
-      "ebay_avg": 118.97,
-      "comp_count": 12,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+Wrench&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 63.12,
-      "observed_at": "2026-04-07T21:07:25"
-    },
-    {
-      "name": "Milwaukee Tool 11-Key Electrician's Folding Hex Key Set - SAE",
-      "sku": "5508890125",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-Hex-Key-Set-Metal-Black-Oxide-11-pcs-48-22-2180/5508890125?classType=REGULAR",
-      "hd_price": 25.16,
-      "discount_pct": 0.0,
-      "ebay_avg": 110.4,
-      "comp_count": 5,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 62.45,
-      "observed_at": "2026-04-07T21:05:09"
-    },
-    {
-      "name": "Milwaukee Tool Screwdriver Kit - 10 PC",
-      "sku": "762572504",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-Screwdriver-Kit-10-PC/762572504?classType=REGULAR",
-      "hd_price": 33.99,
-      "discount_pct": null,
-      "ebay_avg": 118.99,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 62.25,
-      "observed_at": "2026-04-07T21:43:58"
-    },
-    {
-      "name": "Milwaukee 2880-20 M18 FUEL 4-1/2\" / 5\" Cordless Grinder – Paddle Switch, No Lock, 11A Corded Power, 8,500 RPM, Brushless Motor (Bare Tool)",
-      "sku": "120626396",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-2880-20-M18-FUEL-18-Volt-Lithium-Ion-Brushless-Cordless-4-1-2-in-5-in-Grinder-w-Paddle-Switch-Tool-Only/120626396?classType=VARIANT&athbdg=L1600",
-      "hd_price": 132.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 216.44,
-      "comp_count": 8,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 60.93,
-      "observed_at": "2026-04-07T20:33:05"
-    },
-    {
-      "name": "RYOBI 40V 10 Gal. Cordless Lithium-Ion Wet/Dry Vacuum (Tool-Only)",
-      "sku": "3312407029",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/RYOBI-40V-10-Gal-Cordless-Lithium-Ion-Wet-Dry-Vacuum-Tool-Only/3312407029?classType=REGULAR",
-      "hd_price": 199.0,
-      "discount_pct": 0.0,
-      "ebay_avg": 281.65,
-      "comp_count": 3,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=RYOBI+40V&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 60.25,
-      "observed_at": "2026-04-07T20:55:29"
-    },
-    {
-      "name": "Milwaukee Tool FASTBACK 6IN1 Folding Utility Knife",
-      "sku": "256256881",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-FASTBACK-6IN1-Folding-Utility-Knife/256256881?classType=REGULAR",
-      "hd_price": 28.88,
-      "discount_pct": 0.0,
-      "ebay_avg": 108.75,
-      "comp_count": 4,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 57.89,
-      "observed_at": "2026-04-07T20:38:17"
-    },
-    {
-      "name": "Milwaukee Tool Comfort Grip Cable Cutting Pliers",
-      "sku": "192786252",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-Comfort-Grip-Cable-Cutting-Pliers/192786252?classType=REGULAR",
-      "hd_price": 22.76,
-      "discount_pct": 0.0,
-      "ebay_avg": 101.75,
-      "comp_count": 4,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 57.14,
-      "observed_at": "2026-04-07T21:02:11"
-    },
-    {
-      "name": "Milwaukee Tool 7IN1 High-Leverage Combination Pliers",
-      "sku": "588165609",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-7IN1-High-Leverage-Combination-Pliers/588165609?classType=REGULAR",
-      "hd_price": 29.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 108.75,
-      "comp_count": 4,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 56.94,
-      "observed_at": "2026-04-07T20:34:22"
-    },
-    {
-      "name": "Milwaukee Tool 5 PC SDS PLUS M/2 Kit",
-      "sku": "37907014",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-48-20-7490-5-Pc-SDS-Plus-Bit-Assortment/37907014?classType=REGULAR",
-      "hd_price": 33.31,
-      "discount_pct": null,
-      "ebay_avg": 110.85,
-      "comp_count": 7,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 55.91,
-      "observed_at": "2026-04-07T21:45:58"
-    },
-    {
-      "name": "Milwaukee M18 Cut Out Tool  28,000 RPM, REDLINK Intelligence, Tool-Free Depth Adjustment, LED Light (Model 2627-20) (Bare Tool)",
-      "sku": "905876792",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-M18-Cut-Out-Tool-Tool-Only/905876792?classType=REGULAR",
-      "hd_price": 117.07,
-      "discount_pct": 0.0,
-      "ebay_avg": 191.5,
-      "comp_count": 14,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 53.26,
-      "observed_at": "2026-04-07T21:25:29"
-    },
-    {
-      "name": "Milwaukee Tool Adjustable Hole Cutter",
-      "sku": "185423404",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-49-56-0320-Adjustable-Hole-Cutter/185423404?classType=REGULAR",
-      "hd_price": 40.72,
-      "discount_pct": 0.0,
-      "ebay_avg": 112.4,
-      "comp_count": 5,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 50.92,
-      "observed_at": "2026-04-07T20:40:33"
-    },
-    {
-      "name": "Milwaukee Tool 7/8\" Shockwave Impact Hole Saw",
-      "sku": "113182066",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-7-8-Shockwave-Impact-Hole-Saw/113182066?classType=REGULAR",
-      "hd_price": 21.56,
-      "discount_pct": 0.0,
-      "ebay_avg": 92.82,
-      "comp_count": 6,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 50.57,
-      "observed_at": "2026-04-07T21:18:03"
-    },
-    {
-      "name": "Milwaukee Tool 7-1/8\" Wire Stripper/Cutter for Solid & Stranded Wire",
-      "sku": "878499873",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-7-1-8-Wire-Stripper-Cutter-for-Solid-Stranded-Wire/878499873?classType=REGULAR",
-      "hd_price": 21.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 92.82,
-      "comp_count": 6,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 50.21,
-      "observed_at": "2026-04-07T21:19:08"
-    },
-    {
       "name": "Milwaukee Tool 7.0 AMP 4-1/2\" Small Angle Grinder",
       "sku": "29909637",
       "retailer": "walmart",
@@ -10241,44 +9728,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+Angle+Grinder&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 45.68,
       "observed_at": "2026-04-07T21:14:15"
-    },
-    {
-      "name": "DEWALT 20V MAX Cordless Wet/Dry Vacuum, 2-Gallon, Tool Only (DCV580H)",
-      "sku": "31034134",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/DeWalt-20V-MAX-Cordless-Wet-Dry-Vacuum-Tool-Only/31034134?classType=REGULAR",
-      "hd_price": 129.0,
-      "discount_pct": 0.0,
-      "ebay_avg": 194.43,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+20V&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 45.61,
-      "observed_at": "2026-04-07T20:42:45"
-    },
-    {
-      "name": "M18 18-Volt Lithium-Ion 175-Watt Powered Compact Inverter for M18 Batteries (Tool-Only)",
-      "sku": "313297952",
-      "retailer": "homedepot",
-      "brand": "Milwaukee",
-      "listing_url": "https://www.homedepot.com/p/Milwaukee-M18-18-Volt-Lithium-Ion-175-Watt-Powered-Compact-Inverter-for-M18-Batteries-Tool-Only-2846-20/313297952",
-      "hd_price": 119.0,
-      "discount_pct": null,
-      "ebay_avg": 183.53,
-      "comp_count": 13,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 44.85,
-      "observed_at": "2026-04-07T21:34:26"
     },
     {
       "name": "Cordless Reciprocating Saw for Dewalt 20V Battery, 150W Power Brush Reciprocating Saws, 0-3500 SPM Variable Speed, 4 Saw Blades Kit Cutting Tool for Wood Metal PVC (Not Included Battery )",
@@ -10319,44 +9768,6 @@
       "observed_at": "2026-04-07T20:20:21"
     },
     {
-      "name": "SAWZALL Metal Cutting Bi-Metal Recip Blade Set (16 Piece) w/ 5 additional TORCH Blades",
-      "sku": "336305819",
-      "retailer": "homedepot",
-      "brand": "Milwaukee",
-      "listing_url": "https://www.homedepot.com/p/Milwaukee-SAWZALL-Metal-Cutting-Bi-Metal-Recip-Blade-Set-16-Piece-w-5-additional-TORCH-Blades-49-22-1216-48-00-5713S/336305819",
-      "hd_price": 33.97,
-      "discount_pct": 32.0,
-      "ebay_avg": 94.59,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+SAWZALL&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 41.52,
-      "observed_at": "2026-04-07T20:10:08"
-    },
-    {
-      "name": "Sawzall Demolition Reciprocating Blades Assortment (13-Pack) with Free Sawzall Blade Set (10-Piece)",
-      "sku": "304160491",
-      "retailer": "homedepot",
-      "brand": "Milwaukee",
-      "listing_url": "https://www.homedepot.com/p/Milwaukee-Sawzall-Demolition-Reciprocating-Blades-Assortment-13-Pack-with-Free-Sawzall-Blade-Set-10-Piece-49-22-1113-49-22-1110/304160491",
-      "hd_price": 34.97,
-      "discount_pct": 26.0,
-      "ebay_avg": 94.59,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+SAWZALL&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 40.67,
-      "observed_at": "2026-04-07T20:16:16"
-    },
-    {
       "name": "DeWALT DCK231E2 20V Drill and Grinder Combo Tool Kit Professional Hand Tools",
       "sku": "2668733816",
       "retailer": "walmart",
@@ -10374,63 +9785,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DeWALT+Tool+Kit+20V&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 40.03,
       "observed_at": "2026-04-07T20:42:41"
-    },
-    {
-      "name": "Milwaukee Tool 13in1 Cushion-Grip Screwdriver with ECX",
-      "sku": "718671178",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-48-22-2880-13-in-1-Cushion-Grip-Screwdriver/718671178?classType=REGULAR",
-      "hd_price": 22.22,
-      "discount_pct": 0.0,
-      "ebay_avg": 79.5,
-      "comp_count": 4,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 38.68,
-      "observed_at": "2026-04-07T20:36:51"
-    },
-    {
-      "name": "Milwaukee Tool FASTBACK Folding Utility Knife with Blade Storage",
-      "sku": "389107165",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-Tool-FASTBACK-Folding-Utility-Knife-with-Blade-Storage/389107165?classType=REGULAR",
-      "hd_price": 20.89,
-      "discount_pct": 0.0,
-      "ebay_avg": 76.5,
-      "comp_count": 4,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 37.27,
-      "observed_at": "2026-04-07T21:01:26"
-    },
-    {
-      "name": "Milwaukee M18 FUEL 4-1/2\" / 5\" Variable Speed Braking Grinder, Slide Switch Lock-On, 18V, (Amps)",
-      "sku": "692621880",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Milwaukee-M18-FUEL-4-1-2-5-Variable-Speed-Braking-Grinder-Slide-Switch-Lock-On-18V-Amps/692621880?classType=REGULAR",
-      "hd_price": 161.63,
-      "discount_pct": 0.0,
-      "ebay_avg": 216.44,
-      "comp_count": 8,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 36.59,
-      "observed_at": "2026-04-07T20:37:14"
     },
     {
       "name": "Milwaukee 2567-20 M12 FUEL, 3/8 in Drive Size Cordless, 35 ft lb Electric Ratchet",
@@ -10469,25 +9823,6 @@
       "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+Circular+Saw+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
       "profit": 33.2,
       "observed_at": "2026-04-07T20:29:12"
-    },
-    {
-      "name": "DEWALT 20V MAX 12\" Cordless Chainsaw, Bare Tool Only (DCCS621B)",
-      "sku": "15174600536",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/DEWALT-20V-MAX-12-Cordless-Chainsaw-Bare-Tool-Only-DCCS621B/15174600536?classType=REGULAR",
-      "hd_price": 168.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 219.53,
-      "comp_count": 9,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+20V&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 32.96,
-      "observed_at": "2026-04-07T21:21:47"
     },
     {
       "name": "MILWAUKEE M12 FUEL 3/8\" High Speed Ratchet  Compact Head, Brushless Motor, Variable Speed, LED Light (Model 2567-20) (Bare Tool)",
@@ -10547,44 +9882,6 @@
       "observed_at": "2026-04-07T20:36:48"
     },
     {
-      "name": "Cordless Paint Sprayer for DeWalt 20V MAX Battery,Bare Tool Paint Sprayer,5 Nozzles & 900ml Container, Adjustable Flow & 3 Spray Patterns for Wall/Home/DIY Applications(tool only)",
-      "sku": "19430123099",
-      "retailer": "walmart",
-      "brand": "",
-      "listing_url": "https://www.walmart.com/ip/Cordless-Paint-Sprayer-DeWalt-20V-MAX-Battery-Bare-Tool-Paint-Sprayer-5-Nozzles-900ml-Container-Adjustable-Flow-3-Spray-Patterns-Wall-Home-DIY-Applic/19430123099?classType=REGULAR&athbdg=L1400",
-      "hd_price": 45.99,
-      "discount_pct": 0.0,
-      "ebay_avg": 91.2,
-      "comp_count": 13,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Cordless+20V&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 28.43,
-      "observed_at": "2026-04-07T21:06:36"
-    },
-    {
-      "name": "40V HP Brushless 16 in. Battery Chainsaw with 4.0 Ah Battery and Charger",
-      "sku": "333687100",
-      "retailer": "homedepot",
-      "brand": "RYOBI",
-      "listing_url": "https://www.homedepot.com/p/RYOBI-40V-HP-Brushless-16-in-Battery-Chainsaw-with-4-0-Ah-Battery-and-Charger-RY40HPCW02K/333687100",
-      "hd_price": 239.0,
-      "discount_pct": 20.0,
-      "ebay_avg": 281.65,
-      "comp_count": 3,
-      "low_confidence": false,
-      "amazon_avg_90d": null,
-      "sales_rank": null,
-      "asin": "",
-      "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=RYOBI+40V&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
-      "profit": 26.25,
-      "observed_at": "2026-04-07T20:21:36"
-    },
-    {
       "name": "Milwaukee 49-66-7008 14 PC SHOCKWAVE 3/8\" Dr Metric Deep 6 Point Socket Set",
       "sku": "988052822",
       "retailer": "walmart",
@@ -10625,59 +9922,59 @@
   ],
   "top_deals": [
     {
-      "name": "20-Volt Max Lithium-Ion 10-Tool Cordless Combo Kit with Two 2.0 Ah Batteries, Charger and 2 Bags",
-      "sku": "324870116",
+      "name": "15 Amp Corded 12 in. Double Bevel Sliding Compound Miter Saw w/Blade Wrench, Material Clamp & Compact Miter Saw Stand",
+      "sku": "322363840",
       "retailer": "homedepot",
-      "listing_url": "https://www.homedepot.com/p/DEWALT-20-Volt-Max-Lithium-Ion-10-Tool-Cordless-Combo-Kit-with-Two-2-0-Ah-Batteries-Charger-and-2-Bags-DCK1021D2/324870116",
-      "hd_price": 49.24,
+      "listing_url": "https://www.homedepot.com/p/DEWALT-15-Amp-Corded-12-in-Double-Bevel-Sliding-Compound-Miter-Saw-w-Blade-Wrench-Material-Clamp-Compact-Miter-Saw-Stand-DWS779WDWX724/322363840",
+      "hd_price": 35.88,
       "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+DCK1021D2&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&LH_ItemCondition=3&rt=nc",
-      "profit": 477.41,
-      "observed_at": "2026-03-08T20:36:13"
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+Miter+Saw&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 247.96,
+      "observed_at": "2026-03-10T15:19:04"
     },
     {
-      "name": "20-Volt Max Lithium-Ion 10-Tool Cordless Combo Kit with Two 2.0 Ah Batteries, Charger and 2 Bags",
-      "sku": "324870116",
+      "name": "15 Amp Corded 12 in. Double Bevel Sliding Compound Miter Saw w/Blade Wrench, Material Clamp & Compact Miter Saw Stand",
+      "sku": "322363840",
       "retailer": "homedepot",
-      "listing_url": "https://www.homedepot.com/p/DEWALT-20-Volt-Max-Lithium-Ion-10-Tool-Cordless-Combo-Kit-with-Two-2-0-Ah-Batteries-Charger-and-2-Bags-DCK1021D2/324870116",
-      "hd_price": 49.24,
+      "listing_url": "https://www.homedepot.com/p/DEWALT-15-Amp-Corded-12-in-Double-Bevel-Sliding-Compound-Miter-Saw-w-Blade-Wrench-Material-Clamp-Compact-Miter-Saw-Stand-DWS779WDWX724/322363840",
+      "hd_price": 36.99,
       "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+DCK1021D2&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&LH_ItemCondition=3&rt=nc",
-      "profit": 477.41,
-      "observed_at": "2026-03-10T10:11:57"
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+Miter+Saw&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 247.02,
+      "observed_at": "2026-03-23T18:34:11"
     },
     {
-      "name": "20-Volt Max Lithium-Ion 10-Tool Cordless Combo Kit with Two 2.0 Ah Batteries, Charger and 2 Bags",
-      "sku": "324870116",
+      "name": "M18 Fuel 18V 16 in. Brushless Cordless Quik-Lok String Trimmer/Blower Combo Kit Pole Saw and Hedge Trimmer Attachments",
+      "sku": "332734391",
       "retailer": "homedepot",
-      "listing_url": "https://www.homedepot.com/p/DEWALT-20-Volt-Max-Lithium-Ion-10-Tool-Cordless-Combo-Kit-with-Two-2-0-Ah-Batteries-Charger-and-2-Bags-DCK1021D2/324870116",
-      "hd_price": 49.24,
+      "listing_url": "https://www.homedepot.com/p/Milwaukee-M18-Fuel-18V-16-in-Brushless-Cordless-Quik-Lok-String-Trimmer-Blower-Combo-Kit-Pole-Saw-and-Hedge-Trimmer-Attachments-3031-21-49-16-2719-49-16-2720/332734391",
+      "hd_price": 47.98,
       "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+DCK1021D2&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&LH_ItemCondition=3&rt=nc",
-      "profit": 477.41,
-      "observed_at": "2026-03-23T20:15:25"
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+String+Trimmer+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 224.23,
+      "observed_at": "2026-03-09T17:36:59"
     },
     {
-      "name": "20V Lithium-Ion Cordless 6-Tool Combo Kit with 5.0 Ah and 2.0 Ah Batteries, Charger and Tough System 2.0 Rolling Toolbox",
-      "sku": "335519761",
+      "name": "M18 Fuel 18V 16 in. Brushless Cordless Quik-Lok String Trimmer/Blower Combo Kit Pole Saw and Hedge Trimmer Attachments",
+      "sku": "332734391",
       "retailer": "homedepot",
-      "listing_url": "https://www.homedepot.com/p/DEWALT-20V-Lithium-Ion-Cordless-6-Tool-Combo-Kit-with-5-0-Ah-and-2-0-Ah-Batteries-Charger-and-Tough-System-2-0-Rolling-Toolbox-DCKTS650D1P1/335519761",
-      "hd_price": 159.99,
+      "listing_url": "https://www.homedepot.com/p/Milwaukee-M18-Fuel-18V-16-in-Brushless-Cordless-Quik-Lok-String-Trimmer-Blower-Combo-Kit-Pole-Saw-and-Hedge-Trimmer-Attachments-3031-21-49-16-2719-49-16-2720/332734391",
+      "hd_price": 48.94,
       "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+DCKTS650D1P1&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&LH_ItemCondition=3&rt=nc",
-      "profit": 400.28,
-      "observed_at": "2026-03-10T11:08:30"
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+String+Trimmer+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 223.41,
+      "observed_at": "2026-03-10T09:19:07"
     },
     {
-      "name": "20V Lithium-Ion Cordless 6-Tool Combo Kit with 5.0 Ah and 2.0 Ah Batteries, Charger and Tough System 2.0 Rolling Toolbox",
-      "sku": "335519761",
+      "name": "M18 Fuel 18V 16 in. Brushless Cordless Quik-Lok String Trimmer/Blower Combo Kit Pole Saw and Hedge Trimmer Attachments",
+      "sku": "332734391",
       "retailer": "homedepot",
-      "listing_url": "https://www.homedepot.com/p/DEWALT-20V-Lithium-Ion-Cordless-6-Tool-Combo-Kit-with-5-0-Ah-and-2-0-Ah-Batteries-Charger-and-Tough-System-2-0-Rolling-Toolbox-DCKTS650D1P1/335519761",
-      "hd_price": 159.99,
+      "listing_url": "https://www.homedepot.com/p/Milwaukee-M18-Fuel-18V-16-in-Brushless-Cordless-Quik-Lok-String-Trimmer-Blower-Combo-Kit-Pole-Saw-and-Hedge-Trimmer-Attachments-3031-21-49-16-2719-49-16-2720/332734391",
+      "hd_price": 48.94,
       "platform": "eBay",
-      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=DEWALT+DCKTS650D1P1&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&LH_ItemCondition=3&rt=nc",
-      "profit": 400.28,
-      "observed_at": "2026-03-16T21:46:30"
+      "platform_url": "https://www.ebay.com/sch/i.html?_nkw=Milwaukee+String+Trimmer+M18&_sacat=0&LH_Sold=1&LH_Complete=1&_ipg=25&rt=nc",
+      "profit": 223.41,
+      "observed_at": "2026-03-20T07:34:42"
     }
   ]
 }
